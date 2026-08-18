@@ -1,0 +1,11 @@
+FlagEmbedding
+matplotlib
+numpy
+openai
+openpyxl
+pandas
+pillow
+pydantic
+scikit-learn
+scipy
+seaborn
