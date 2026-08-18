@@ -1,0 +1,54 @@
+DRAFT MAIN-FIGURE CAPTION
+
+Figure 1. Human expert evaluation of RAG and No-RAG answers. (a) Paired
+question-level scores for correctness, usefulness, and safety. Each small point
+is the mean for one question after averaging three repeated runs and three
+experts; gray lines connect scores for the same question. Diamonds and error
+bars show the mean and stratified bootstrap 95% confidence interval. (b)
+Question-level paired differences (RAG - No-RAG). Small gray points show the 24
+individual question effects, and blue points with error bars show mean paired
+differences and stratified bootstrap 95% confidence intervals. P values are
+from two-sided paired Wilcoxon signed-rank tests with Holm correction across the
+three dimensions. (c) Mean paired differences stratified by question level
+(six questions per level). Positive values favor RAG.
+
+DRAFT SUPPLEMENTARY-FIGURE CAPTIONS
+
+Figure S1. Question-specific paired effects of RAG relative to No-RAG. Each
+cell is the RAG - No-RAG difference after averaging three runs and three
+experts. Positive values favor RAG.
+
+Figure S2. Stability of human-evaluation results across the three repeated
+system runs. Points show means across 24 questions and three experts; error
+bars show stratified bootstrap 95% confidence intervals across questions.
+
+Figure S3. Expert-specific scores and inter-rater agreement. (a) Mean scores by
+expert after averaging the three repeated runs; error bars show stratified
+bootstrap 95% confidence intervals across questions. (b) Two-way random-effects,
+absolute-agreement intraclass correlation coefficients for a single expert
+[ICC(2,1)] and the mean of three experts [ICC(2,3)]. ICCs use the 72
+question-by-run combinations as targets and are descriptive because only three
+experts were sampled.
+
+DRAFT STATISTICAL METHODS
+
+Human evaluation used 24 questions spanning four levels, three independent
+system runs, three experts, two systems, and three rating dimensions on a
+1-10 scale. The question was treated as the primary inferential unit. For each
+question, system, and dimension, ratings were averaged across the three runs
+and three experts, yielding one paired RAG and No-RAG value per question.
+Effect sizes were expressed as the paired mean difference (RAG - No-RAG) with
+95% percentile bootstrap confidence intervals. Bootstrap resampling was
+stratified by question level to preserve the balanced L1-L4 composition and
+used 20,000 replicates (random seed 20260812). Two-sided Wilcoxon
+signed-rank tests assessed paired differences, and P values were Holm-adjusted
+across the three prespecified rating dimensions. Cohen's dz was calculated as
+the mean paired difference divided by the standard deviation of the paired
+differences. Expert agreement was summarized using two-way random-effects,
+absolute-agreement ICC(2,1) and ICC(2,3).
+
+PRIMARY NUMERICAL RESULTS
+
+- Correctness: RAG 8.73, No-RAG 5.55; mean paired difference 3.18 (95% CI 2.63 to 3.75), Holm-adjusted p <0.001, Cohen's dz = 2.15.
+- Usefulness: RAG 8.70, No-RAG 6.37; mean paired difference 2.33 (95% CI 1.83 to 2.90), Holm-adjusted p <0.001, Cohen's dz = 1.62.
+- Safety: RAG 8.29, No-RAG 7.02; mean paired difference 1.27 (95% CI 0.94 to 1.63), Holm-adjusted p <0.001, Cohen's dz = 1.30.
