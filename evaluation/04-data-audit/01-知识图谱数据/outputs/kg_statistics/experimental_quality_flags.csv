@@ -1,0 +1,218 @@
+﻿issue,source_row,sub_name,rel_type,rel_name,obj_name,detail
+incomplete_triple,268,硬X射线成像线站,,,,subject/relation/object 至少一项为空
+incomplete_triple,307,高分辨纳米电子结构线站,,,,subject/relation/object 至少一项为空
+incomplete_triple,308,光学测试线站,,,,subject/relation/object 至少一项为空
+exact_duplicate_group,39;42,1W2A-小角散射实验站,,实验技术,广角X射线散射（WAXS）,出现 2 次
+exact_duplicate_group,184;197,工程材料线站,,光斑参数,50–170 keV,出现 2 次
+exact_duplicate_group,185;198,工程材料线站,,光斑参数,10^{-3},出现 2 次
+exact_duplicate_group,187;200,工程材料线站,,光斑参数,2×10^{12} phs/s（@100 keV，200 mA，非聚焦）,出现 2 次
+exact_duplicate_group,189;207,工程材料线站,,实验技术,单晶衍射,出现 2 次
+exact_duplicate_group,190;208,工程材料线站,,实验技术,粉末衍射,出现 2 次
+exact_duplicate_group,194;209,工程材料线站,,实验技术,全场/扫描+吸收/相衬+投影成像/CT,出现 2 次
+exact_duplicate_group,196;206,工程材料线站,,实验技术,PDF,出现 2 次
+exact_duplicate_group,241;244,硬X射线相干散射线站,,光斑参数,分辨率1–10 nm；,出现 2 次
+exact_duplicate_group,248;251,硬X射线相干散射线站,,光斑参数,时间尺度1000 s–1 μs。,出现 2 次
+relation_label_mismatch,24,1W1A-漫散射实验站,能量范围,光斑参数,8.05 keV(不可调),rel_type 与 rel_name 不相同
+relation_label_mismatch,25,1W1A-漫散射实验站,能量分辨率,光斑参数,能量分辨率（△E/E）<4.4×10-4 @ 8.05 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,26,1W1A-漫散射实验站,样品处光子通量,光斑参数,样品处光子通量（phs/s）>1×1011 @ 8.05 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,27,1W1A-漫散射实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：1(H)×0.4(V) mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,32,1W1B-XAFS实验站,能量范围,光斑参数,能量范围：4-23 keV，，,rel_type 与 rel_name 不相同
+relation_label_mismatch,33,1W1B-XAFS实验站,能量分辨率,光斑参数,能量分辨率（△E/E）<1-3×10-4 @ 9 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,34,1W1B-XAFS实验站,样品处光子通量,光斑参数,样品处光子通量（phs/s）>4×1011 @ 9 keV，2.5 GeV，200 mA，,rel_type 与 rel_name 不相同
+relation_label_mismatch,35,1W1B-XAFS实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸： 0.9(H)×0.3(V)mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,43,1W2A-小角散射实验站,小角散射分辨率,光斑参数,小角散射分辨率：200 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,44,1W2A-小角散射实验站,角分辨率,光斑参数,角分辨率：0.5 mrad,rel_type 与 rel_name 不相同
+relation_label_mismatch,45,1W2A-小角散射实验站,入射X射线波长,光斑参数,入射X射线波长1.54 Å,rel_type 与 rel_name 不相同
+relation_label_mismatch,46,1W2A-小角散射实验站,能量分辨率,光斑参数,能量分辨率（△E/E）～1×10-3,rel_type 与 rel_name 不相同
+relation_label_mismatch,47,1W2A-小角散射实验站,样品处光子通量,光斑参数,样品处光子通量（phs/s） ≥1×1011,rel_type 与 rel_name 不相同
+relation_label_mismatch,48,1W2A-小角散射实验站,样品至探测器距离,光斑参数,样品至探测器距离：0.5～5.0 m 分级可调,rel_type 与 rel_name 不相同
+relation_label_mismatch,49,1W2A-小角散射实验站,探测器上光斑尺寸,光斑参数,探测器上光斑尺寸：1.4 × 0.2 mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,50,1W2A-小角散射实验站,光束发散度,光斑参数,光束发散度 ≤0.6 mrad,rel_type 与 rel_name 不相同
+relation_label_mismatch,57,1W2B-综合实验站,能量范围,光斑参数,能量范围：5-18 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,58,1W2B-综合实验站,能量分辨率,光斑参数,能量分辨率(△E/E)优于4×10-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,59,1W2B-综合实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：1012,rel_type 与 rel_name 不相同
+relation_label_mismatch,60,1W2B-综合实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸： 1(H)×0.6(V) mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,65,3W1-高能实验站,能量范围,光斑参数,能量范围：40-80 keV 白光,rel_type 与 rel_name 不相同
+relation_label_mismatch,66,3W1-高能实验站,能量分辨率,光斑参数,能量分辨率(△E/E)～0.16% @ 50 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,67,3W1-高能实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：6.54×1010 @ 50 keV 2.56×1013 @ 白光,rel_type 与 rel_name 不相同
+relation_label_mismatch,68,3W1-高能实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：3×3 mm2 @ 50 keV 9.37×2.47 mm2 @ 白光,rel_type 与 rel_name 不相同
+relation_label_mismatch,73,1B3-光刻、LIGA实验站,光类型,光斑参数,样品处为白光,rel_type 与 rel_name 不相同
+relation_label_mismatch,74,1B3-光刻、LIGA实验站,样品处光斑尺寸,光斑参数,光斑水平宽度55毫米,rel_type 与 rel_name 不相同
+relation_label_mismatch,75,1B3-光刻、LIGA实验站,光源能量,光斑参数,样品台在竖直方向扫描曝光。其中纳米光刻光源能量在1-3 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,76,1B3-光刻、LIGA实验站,能量范围,光斑参数,X射线深度光刻光源能量在3-12 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,77,1B3-光刻、LIGA实验站,样品处光子通量,光斑参数,光通量大于1015phs/s,rel_type 与 rel_name 不相同
+relation_label_mismatch,83,4W1A-X射线成像站,能量范围,光斑参数,微米成像：能量范围：6 - 26 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,84,4W1A-X射线成像站,样品处光子通量,光斑参数,样品处光子通量(phs/s)～1012 @ 8 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,85,4W1A-X射线成像站,空间分辨率,光斑参数,空间分辨率为～10 μm、～5 μm、～1 μm时,rel_type 与 rel_name 不相同
+relation_label_mismatch,86,4W1A-X射线成像站,光斑尺寸,光斑参数,光斑尺寸（H×V）分别为20 mm×10 mm，10 mm×5 mm，2 mm×1 mm,rel_type 与 rel_name 不相同
+relation_label_mismatch,87,4W1A-X射线成像站,能量范围,光斑参数,纳米成像：能量范围：6-10 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,88,4W1A-X射线成像站,样品处光子通量,光斑参数,纳米成像：样品处光子通量(phs/s)～108 @ 8 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,89,4W1A-X射线成像站,空间分辨率,光斑参数,纳米成像：空间分辨率为30 nm、50 nm、100 nm时,rel_type 与 rel_name 不相同
+relation_label_mismatch,90,4W1A-X射线成像站,光斑尺寸,光斑参数,纳米成像：光斑尺寸（H×V）分别为10 μm×10 μm，15 μm×15 μm，65 μm×65 μm,rel_type 与 rel_name 不相同
+relation_label_mismatch,96,4W1B-X射线荧光微分析实验站,实验模式,光斑参数,实验模式：粉光聚焦模式,rel_type 与 rel_name 不相同
+relation_label_mismatch,97,4W1B-X射线荧光微分析实验站,能量范围,光斑参数,能量范围：5-18 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,98,4W1B-X射线荧光微分析实验站,能量分辨率,光斑参数,能量分辨率（△E/E）<5.5×10-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,99,4W1B-X射线荧光微分析实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：>1×1010 @ 15 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,100,4W1B-X射线荧光微分析实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：50(H)×50(V) μm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,101,4W1B-X射线荧光微分析实验站,XRF检测限,光斑参数,XRF检测限：1 ppm,rel_type 与 rel_name 不相同
+relation_label_mismatch,107,4W2-高压实验站,能量范围,光斑参数,能量范围：10-25 keV（单色光）,rel_type 与 rel_name 不相同
+relation_label_mismatch,108,4W2-高压实验站,能量分辨率,光斑参数,能量分辨率（△E/E）：7×10-4 @ 20 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,109,4W2-高压实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：1.2×109 @ 20 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,110,4W2-高压实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：33×12 μm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,116,4B8-真空紫外实验站,波长范围,光斑参数,波长范围：130-360 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,117,4B8-真空紫外实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：2×109 @ 180 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,118,4B8-真空紫外实验站,光斑参数样品处光斑尺寸,光斑参数,样品处光斑尺寸：2(H)×1(V) mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,128,4B7A-中能实验站,能量范围,光斑参数,能量范围：Si(111)：2100-5700 eV InSb(111)：1750-3400 eV,rel_type 与 rel_name 不相同
+relation_label_mismatch,129,4B7A-中能实验站,能量分辨率,光斑参数,能量分辨率（△E/E）～7000,rel_type 与 rel_name 不相同
+relation_label_mismatch,130,4B7A-中能实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：～1x1011 @ S K-edge,rel_type 与 rel_name 不相同
+relation_label_mismatch,131,4B7A-中能实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：5×3 mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,140,4B7B-软X光实验站,能量范围,光斑参数,能量范围：50-1700 eV,rel_type 与 rel_name 不相同
+relation_label_mismatch,141,4B7B-软X光实验站,能量分辨率,光斑参数,能量分辨率（△E/E）～1000,rel_type 与 rel_name 不相同
+relation_label_mismatch,142,4B7B-软X光实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)>1×1010 @ Fe L-edge,rel_type 与 rel_name 不相同
+relation_label_mismatch,143,4B7B-软X光实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：1×0.5 mm2（焦点处）、大至10×5 mm2（离焦）,rel_type 与 rel_name 不相同
+relation_label_mismatch,150,4B9A-衍射站,能量范围,光斑参数,能量范围：5-13 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,151,4B9A-衍射站,能量分辨率,光斑参数,能量分辨率（△E/E）：3×10-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,152,4B9A-衍射站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：1×1010 @ 8 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,153,4B9A-衍射站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：2(H)×1(V) mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,154,4B9A-衍射站,角分辨率,光斑参数,角分辨率：0.9角秒,rel_type 与 rel_name 不相同
+relation_label_mismatch,160,4B9B-光电子能谱实验站,波长范围,光斑参数,波长范围： 130-360 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,161,4B9B-光电子能谱实验站,样品处光子通量,光斑参数,样品处光子通量(phs/s)：2×109 @ 180 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,162,4B9B-光电子能谱实验站,样品处光斑尺寸,光斑参数,样品处光斑尺寸：2(H)×1(V) mm2,rel_type 与 rel_name 不相同
+relation_label_mismatch,179,生物大分子微晶衍射线站,能量范围,光斑参数,5–18 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,180,生物大分子微晶衍射线站,能量分辨率,光斑参数,（ΔE/E）~2E-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,181,生物大分子微晶衍射线站,最小光斑尺寸,光斑参数,（H×V）1 µm × 1 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,182,生物大分子微晶衍射线站,最大光斑尺寸,光斑参数,（H×V）18 µm × 28 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,183,生物大分子微晶衍射线站,光通量,光斑参数,1E13 phs/s,rel_type 与 rel_name 不相同
+relation_label_mismatch,184,工程材料线站,材料工程实验棚屋-能量范围,光斑参数,50–170 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,185,工程材料线站,材料工程实验棚屋-能量分辨率,光斑参数,10^{-3},rel_type 与 rel_name 不相同
+relation_label_mismatch,186,工程材料线站,材料工程实验棚屋-样品处光斑尺寸,光斑参数,~1 mm × 1 mm（最大），5 μm × 5 μm（最小）,rel_type 与 rel_name 不相同
+relation_label_mismatch,187,工程材料线站,材料工程实验棚屋-样品处光通量,光斑参数,2×10^{12} phs/s（@100 keV，200 mA，非聚焦）,rel_type 与 rel_name 不相同
+relation_label_mismatch,188,工程材料线站,材料工程实验棚屋-样品台负载,光斑参数,>200 kg（综合），>1.5 t（重载）,rel_type 与 rel_name 不相同
+relation_label_mismatch,189,工程材料线站,材料工程实验棚屋-实验技术,实验技术,单晶衍射,rel_type 与 rel_name 不相同
+relation_label_mismatch,190,工程材料线站,材料工程实验棚屋-实验技术,实验技术,粉末衍射,rel_type 与 rel_name 不相同
+relation_label_mismatch,191,工程材料线站,材料工程实验棚屋-实验技术,实验技术,深度分辨衍射,rel_type 与 rel_name 不相同
+relation_label_mismatch,192,工程材料线站,材料工程实验棚屋-实验技术,实验技术,时间分辨衍射,rel_type 与 rel_name 不相同
+relation_label_mismatch,193,工程材料线站,材料工程实验棚屋-实验技术,实验技术,XRD-CT,rel_type 与 rel_name 不相同
+relation_label_mismatch,194,工程材料线站,材料工程实验棚屋-实验技术,实验技术,全场/扫描+吸收/相衬+投影成像/CT,rel_type 与 rel_name 不相同
+relation_label_mismatch,195,工程材料线站,材料工程实验棚屋-实验技术,实验技术,晶粒分辨的衍射衬度成像,rel_type 与 rel_name 不相同
+relation_label_mismatch,196,工程材料线站,材料工程实验棚屋-实验技术,实验技术,PDF,rel_type 与 rel_name 不相同
+relation_label_mismatch,199,工程材料线站,材料化学实验棚屋-样品处光斑尺寸,光斑参数,~0.7 mm × 0.7 mm,rel_type 与 rel_name 不相同
+relation_label_mismatch,201,工程材料线站,材料化学实验棚屋-样品台负载,光斑参数,>200 kg,rel_type 与 rel_name 不相同
+relation_label_mismatch,202,工程材料线站,材料化学实验棚屋-实验技术,实验技术,SAXS,rel_type 与 rel_name 不相同
+relation_label_mismatch,203,工程材料线站,材料化学实验棚屋-实验技术,实验技术,WAXS,rel_type 与 rel_name 不相同
+relation_label_mismatch,204,工程材料线站,材料化学实验棚屋-实验技术,实验技术,SAXS+WAXS,rel_type 与 rel_name 不相同
+relation_label_mismatch,205,工程材料线站,材料化学实验棚屋-实验技术,实验技术,时间分辨SAXS,rel_type 与 rel_name 不相同
+relation_label_mismatch,210,粉光小角散射线站,能量范围,光斑参数,8–12 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,211,粉光小角散射线站,能量分辨率,光斑参数,1%,rel_type 与 rel_name 不相同
+relation_label_mismatch,212,粉光小角散射线站,最小光斑,光斑参数,100 µm × 100 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,213,粉光小角散射线站,最大光斑,光斑参数,500 µm × 500 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,214,粉光小角散射线站,光通量,光斑参数,5E14,rel_type 与 rel_name 不相同
+relation_label_mismatch,234,硬X射线相干散射线站,能量范围,光斑参数,7–25 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,235,硬X射线相干散射线站,能量分辨率,光斑参数,10^{-4},rel_type 与 rel_name 不相同
+relation_label_mismatch,236,硬X射线相干散射线站,相干通量,光斑参数,大于10^{12} ph/s；相干性可调（相干分量0.5–0.95）,rel_type 与 rel_name 不相同
+relation_label_mismatch,237,硬X射线相干散射线站,光斑尺寸-Ptychography,光斑参数,光斑尺寸100 nm–5 μm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,238,硬X射线相干散射线站,分辨率-Ptychography,光斑参数,分辨率1–50 nm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,239,硬X射线相干散射线站,视场-Ptychography,光斑参数,视场1–100 μm。,rel_type 与 rel_name 不相同
+relation_label_mismatch,240,硬X射线相干散射线站,光斑尺寸-SAXS CDI,光斑参数,光斑尺寸2–20 μm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,241,硬X射线相干散射线站,分辨率-SAXS CDI,光斑参数,分辨率1–10 nm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,242,硬X射线相干散射线站,视场-SAXS CDI,光斑参数,视场1–10 μm。,rel_type 与 rel_name 不相同
+relation_label_mismatch,243,硬X射线相干散射线站,光斑尺寸-BCDI,光斑参数,光斑尺寸100–500 nm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,245,硬X射线相干散射线站,视场-BCDI,光斑参数,视场50–500 nn。,rel_type 与 rel_name 不相同
+relation_label_mismatch,246,硬X射线相干散射线站,光斑尺寸-SAXS XPCS,光斑参数,光斑尺寸10–20 μm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,247,硬X射线相干散射线站,空间尺度-SAXS XPCS,光斑参数,空间尺度1–200 nm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,248,硬X射线相干散射线站,时间尺度-SAXS XPCS,光斑参数,时间尺度1000 s–1 μs。,rel_type 与 rel_name 不相同
+relation_label_mismatch,249,硬X射线相干散射线站,光斑尺寸-WAXS XPCS,光斑参数,光斑尺寸100 nm–2 μm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,250,硬X射线相干散射线站,空间尺度-WAXS XPCS,光斑参数,空间尺度0.1–1 nm；,rel_type 与 rel_name 不相同
+relation_label_mismatch,258,硬X射线纳米探针线站,能量范围,光斑参数,5–30 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,259,硬X射线纳米探针线站,能量分辨率,光斑参数,10^{-4}～10^{-5},rel_type 与 rel_name 不相同
+relation_label_mismatch,260,硬X射线纳米探针线站,最小聚焦光斑-高分辨模式,光斑参数,<10 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,261,硬X射线纳米探针线站,最小聚焦光斑-原位模式,光斑参数,<50 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,262,硬X射线纳米探针线站,光通量-高分辨模式,光斑参数,10^{9}～10^{10} phs/s @10 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,263,硬X射线纳米探针线站,光通量-原位模式,光斑参数,10^{10}～10^{11} phs/s @10 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,264,硬X射线纳米探针线站,聚焦光斑工作距离-高分辨模式,光斑参数,1–2 mm,rel_type 与 rel_name 不相同
+relation_label_mismatch,265,硬X射线纳米探针线站,聚焦光斑工作距离-原位模式,光斑参数,40–50 mm,rel_type 与 rel_name 不相同
+relation_label_mismatch,266,硬X射线纳米探针线站,样品尺寸,光斑参数,亚微米至毫米尺度（亚 μm ~ mm）,rel_type 与 rel_name 不相同
+relation_label_mismatch,267,硬X射线纳米探针线站,成像分辨率,光斑参数,样品信息（结构、元素、价态等）成像分辨率约纳米尺度,rel_type 与 rel_name 不相同
+relation_label_mismatch,273,结构动力学线站,光学模式-白光模式,光斑参数,光斑大小 1 mm–14 mm；单脉冲强度 >10^{9} phs/pulse；光通量 >10^{16} phs/s。,rel_type 与 rel_name 不相同
+relation_label_mismatch,274,结构动力学线站,光学模式-微米模式,光斑参数,光斑大小 5 μm–500 μm；光通量 >10^{15} phs/s；光子能量 20–70 keV；能量分辨率 0.5%–2.8%。,rel_type 与 rel_name 不相同
+relation_label_mismatch,275,结构动力学线站,光学模式-纳米模式,光斑参数,光斑大小 <50 nm；光通量 >10^{14} phs/s；光子能量 21.8 keV；能量分辨率 1.2%。,rel_type 与 rel_name 不相同
+relation_label_mismatch,276,X射线显微成像线站,成像最高空间分辨率,光斑参数,20 nm,rel_type 与 rel_name 不相同
+relation_label_mismatch,277,X射线显微成像线站,能量范围,光斑参数,5–15 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,278,X射线显微成像线站,样品处光子通量,光斑参数,~1E11 phs/s,rel_type 与 rel_name 不相同
+relation_label_mismatch,279,X射线显微成像线站,能量分辨率(ΔE/E),光斑参数,≈1E-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,291,高压线站,光源,光斑参数,波荡器 IVU19.9,rel_type 与 rel_name 不相同
+relation_label_mismatch,292,高压线站,总长度,光斑参数,4.0 m,rel_type 与 rel_name 不相同
+relation_label_mismatch,293,高压线站,周期长度,光斑参数,19.9 mm,rel_type 与 rel_name 不相同
+relation_label_mismatch,294,高压线站,FWHM张角@Kmax,光斑参数,0.26 (H) × 0.11 (V) mrad^2,rel_type 与 rel_name 不相同
+relation_label_mismatch,295,高压线站,基波光源FWHM尺寸@Kmax,光斑参数,21.9 (H) × 9.0 (V) μm^2,rel_type 与 rel_name 不相同
+relation_label_mismatch,296,高压线站,基波光源FWHM发散角@Kmax,光斑参数,13.6 (H) × 11.8 (V) μrad^2,rel_type 与 rel_name 不相同
+relation_label_mismatch,297,高压线站,光子亮度@30 keV,光斑参数,1.7 × 10^{22} phs/s/mm^2/mrad^2/0.1%B.W.,rel_type 与 rel_name 不相同
+relation_label_mismatch,298,高压线站,光子通量@30 keV,光斑参数,3.8 × 10^{14} phs/s/0.1%B.W. @16 μrad × 16 μrad,rel_type 与 rel_name 不相同
+relation_label_mismatch,299,高分辨谱学线站,能区keV,光斑参数,7–26 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,300,高分辨谱学线站,能量分辨率-NRS,光斑参数,1 meV @14.4 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,301,高分辨谱学线站,能量分辨率-XRS,光斑参数,0.7 eV @9.7 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,302,高分辨谱学线站,能量分辨率-RIXS,光斑参数,100 meV @8.9 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,303,高分辨谱学线站,聚焦光斑尺寸最小,光斑参数,2 µm × 2 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,304,高分辨谱学线站,样品处光通量-NRS,光斑参数,~1.5×10^{10} phs/s/meV @14.4 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,305,高分辨谱学线站,样品处光通量-XRS,光斑参数,~3×10^{13} phs/s @9.7 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,306,高分辨谱学线站,样品处光通量-RIXS,光斑参数,~5×10^{12} phs/s @8.9 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,309,X射线吸收谱学线站,能量范围,光斑参数,4.8–45 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,310,X射线吸收谱学线站,能量分辨率,光斑参数,2×10^{-4}（Si(111)）；4×10^{-5}（Si(311)）,rel_type 与 rel_name 不相同
+relation_label_mismatch,311,X射线吸收谱学线站,光斑大小,光斑参数,~2 mm × 2 mm；≤0.35 μm × 0.35 μm（聚焦模式）,rel_type 与 rel_name 不相同
+relation_label_mismatch,312,X射线吸收谱学线站,光通量,光斑参数,2×10^{13} ph/s @10 keV；5×10^{12} ph/s @10 keV（聚焦模式）,rel_type 与 rel_name 不相同
+relation_label_mismatch,313,通用环境谱学线站,能量范围,光斑参数,2.1–10 keV,rel_type 与 rel_name 不相同
+relation_label_mismatch,314,通用环境谱学线站,能量分辨率,光斑参数,~2E-4,rel_type 与 rel_name 不相同
+relation_label_mismatch,315,通用环境谱学线站,最小光斑尺寸,光斑参数,20 µm × 20 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,316,通用环境谱学线站,最大光斑尺寸,光斑参数,15000 µm × 1500 µm,rel_type 与 rel_name 不相同
+relation_label_mismatch,317,通用环境谱学线站,光通量,光斑参数,1E10 ~ 1E12 phs/s,rel_type 与 rel_name 不相同
+relation_label_mismatch,322,HEPS,储存环能量,HEPS电子能量,6GeV,rel_type 与 rel_name 不相同
+relation_label_mismatch,323,HEPS,亮度,HEPS亮度,1 × 10^22 phs/s/mm2/mrad2/0.1%BW,rel_type 与 rel_name 不相同
+relation_label_mismatch,324,一期,建设,HEPS建设,生物大分子微晶衍射线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,325,一期,建设,HEPS建设,低维结构探针线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,326,一期,建设,HEPS建设,工程材料线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,327,一期,建设,HEPS建设,粉光小角散射线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,328,一期,建设,HEPS建设,硬X射线相干散射线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,329,一期,建设,HEPS建设,硬X射线纳米探针线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,330,一期,建设,HEPS建设,硬X射线成像线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,331,一期,建设,HEPS建设,结构动力学线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,332,一期,建设,HEPS建设,X射线显微成像线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,333,一期,建设,HEPS建设,高压线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,334,一期,建设,HEPS建设,高分辨谱学线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,335,一期,建设,HEPS建设,高分辨纳米电子结构线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,336,一期,建设,HEPS建设,光学测试线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,337,一期,建设,HEPS建设,通用环境谱学线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,338,一期,建设,HEPS建设,X射线吸收谱学线站,rel_type 与 rel_name 不相同
+relation_label_mismatch,339,一期,线站状态,HEPS建设,首轮开放,rel_type 与 rel_name 不相同
+relation_label_mismatch,340,一期,线站状态,HEPS建设,暂未开放,rel_type 与 rel_name 不相同
+relation_label_mismatch,355,HEPS,试用课题申请,HEPS试用课题申请,# HEPS 试用课题（Pilot Proposal）申请说明 一、HEPS 用户服务系统网址：https://user.heps.ihep.ac.cn/。 如对试用课题（Pilot Proposal）申请有改进意见或建议，请反馈至 HEPS 用户办邮箱（heps-user@ihep.ac.cn）。 二、系统注册： （1）已有中国科学院重大科技基础设施共享服务平台（以下简称院平台）（https://lssf.cas.cn/）账号的用户，可以直接登录 HEPS 用户服务系统，登录账号：院平台注册时登记的邮箱（请注意，不是院平台的登录账号），密码：同院平台密码。 （2）没有院平台账号的用户，请点击 HEPS 用户服务系统首页面上的“新建账号？”进行注册。注册后，重新访问 HEPS 用户服务系统进行登录，登录账号：注册时登记的邮箱，密码：注册时设定的密码。 三、课题申请： （1）申请人须为在职人员，在与对应线站试用课题（Pilot Proposal）联系人联系后，方可提交课题申请。 （2）进入 HEPS 用户服务系统后，点击页面左侧的“试用课题（Pilot Proposal）”，开始填写申请。 （3）课题申请共 7 个步骤，请根据要求进行填写、提交。申请步骤：申请书分为 7 个步骤（课题类型、用户承诺、基本信息、课题成员、课题详情、样品安全、辅助材料），可通过上方数字步骤或界面 “上一步”“下一步” 切换。 操作功能： 可通过 “预览” 按钮查看最终 PDF 文档； 未填写完成可通过 “保存” 按钮暂存，后续可在 “我的课题” 中找到； 填写完成后点击 “提交”，提交后不可修改。 试用课题说明： 试用课题（PILOT proposal）是线站调试期间开放实验的课题类型，首轮开放 6 个线站（HEPS 一期共 14 条线站）； 首轮申请截止至 2025 年 12 月 31 日，逾期申请需等线站有效期开放后提交。 申请要求： 申请人需与线站人员沟通，在 “课题详情” 环节选择对应线站人员并说明沟通情况； 课题申请需先通过线站审核。 首轮开放线站： BM44 通用环境谱学线站 ID30 X 射线成像线站 ID08 粉末小角散射线站 ID02 生物大分子衍射线站 ID05 低维结构探针线站 ID31 高压线站 （4）课题审批结束后，HEPS 用户服务系统将发送邮件通知评审结果。 四、机时安排： 对于通过审批的试用课题（Pilot Proposal），线站人员会根据线站具体情况安排机时，请耐心等待通知。 五、到访申请： （1）机时安排确定后，HEPS 用户服务系统将发送邮件通知，提醒填写到访申请。 （2）在 HEPS 用户服务系统“到访申请”模块中选择对应的实验机时，填写并提交所有计划到现场开展实验人员的到访信息。到访人员填报要求： - 在院平台上有注册账号且填报了身份证号； - 在 HEPS 用户服务系统中通过了《HEPS 用户安全培训考试》。 （3）到访审批通过后，所有到访人员将收到系统发送的关于实验账号、密码、BeamtimeID 等内容的邮件。 （4）建议至少提前 3 天填写到访申请，便于：1. 安排剂量卡和门禁卡；2. 所有到访人员将收到关于实验账号、密码和 BeamtimeID 的通知，并在实验结束后有权限下载实验数据。 六、用户住宿： 用户如有住宿需求，请提前与 HEPS 招待所前台联系（电话：01069680831，18001162658）。 七、用户现场实验： 1. 剂量卡和门禁卡： 用户到达 HEPS 后，与线站人员联系，领取剂量卡、门禁卡并登记。 2. 开展实验： 用户根据到访通知邮件中的实验账号、密码和 BeamtimeID 开展实验。 八、实验结束后： 1. 用户填写实验登记表（现场提供表格），并反馈线站试用意见或建议； 2. 用户在离开 HEPS 前归还剂量卡和门禁卡（如有丢失或损坏，须赔偿）； 3. 可以点击 HEPS 用户服务系统中的“数据服务”菜单栏跳转至 HEPS 用户数据服务系统或直接通过以下网址（https://data.heps.ihep.ac.cn/）访问 HEPS 用户数据服务系统，进行实验数据下载（下载账号：到访通知邮件中的实验账号和密码或实验人员在院平台的注册邮箱和密码）。 九、联系方式： 1. 用户办：于梅娟，15311488165，yumj@ihep.ac.cn 2. 实验数据管理：郭怡蕾，ylguo@ihep.ac.cn，18614046290；胡鹏，hup@ihep.ac.cn，15600290501 3. HEPS 招待所前台：010-69680831，18001162658,rel_type 与 rel_name 不相同
+entity_type_conflict,,1B3-光刻、LIGA实验站,,,,1B3-光刻、LIGA实验站;束线
+entity_type_conflict,,1W1A-漫散射实验站,,,,1W1A实验站;束线
+entity_type_conflict,,1W1B-XAFS实验站,,,,1W1B实验站;束线
+entity_type_conflict,,1W2A-小角散射实验站,,,,1W2A实验站;束线
+entity_type_conflict,,1W2B-综合实验站,,,,1W2B实验站;束线
+entity_type_conflict,,3W1-高能实验站,,,,3W1实验站;束线
+entity_type_conflict,,4B7A-中能实验站,,,,4B7A实验站;束线
+entity_type_conflict,,4B7B-软X光实验站,,,,4B7B实验站;束线
+entity_type_conflict,,4B8-真空紫外实验站,,,,4B8-实验站;束线
+entity_type_conflict,,4B9A-衍射站,,,,4B9A实验站;束线
+entity_type_conflict,,4B9B-光电子能谱实验站,,,,4B9B实验站;束线
+entity_type_conflict,,4W1A-X射线成像站,,,,4W1A实验站;束线
+entity_type_conflict,,4W1B-X射线荧光微分析实验站,,,,4W1B实验站;束线
+entity_type_conflict,,4W2-高压实验站,,,,4W2实验站;束线
+entity_type_conflict,,PDF,,,,光斑参数;实验技术
+entity_type_conflict,,X射线吸收谱学线站,,,,HEPS首期;ID46;束线
+entity_type_conflict,,X射线显微成像线站,,,,HEPS首期;ID30;束线
+entity_type_conflict,,低维结构探针线站,,,,HEPS首期;ID05;束线
+entity_type_conflict,,光学测试线站,,,,HEPS首期;束线
+entity_type_conflict,,工程材料线站,,,,HEPS首期;ID07;束线
+entity_type_conflict,,时间分辨衍射,,,,实验技术;样品环境
+entity_type_conflict,,生物大分子微晶衍射线站,,,,HEPS首期;ID02;束线
+entity_type_conflict,,硬X射线成像线站,,,,HEPS首期;束线
+entity_type_conflict,,硬X射线相干散射线站,,,,HEPS首期;ID09;束线
+entity_type_conflict,,硬X射线纳米探针线站,,,,HEPS首期;ID19;束线
+entity_type_conflict,,粉光小角散射线站,,,,HEPS首期;ID08;束线
+entity_type_conflict,,结构动力学线站,,,,HEPS首期;ID23;束线
+entity_type_conflict,,通用环境谱学线站,,,,BM44;HEPS首期;束线
+entity_type_conflict,,高分辨纳米电子结构线站,,,,HEPS首期;束线
+entity_type_conflict,,高分辨谱学线站,,,,HEPS首期;ID33;束线
+entity_type_conflict,,高压线站,,,,HEPS首期;ID31;束线
