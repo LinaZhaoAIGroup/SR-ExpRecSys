@@ -27,9 +27,8 @@ The benchmark contains 24 questions. Each question was evaluated with RAG and No
 ## Installation
 
 ~~~bash
-python -m venv .venv
-source .venv/bin/activate
 python -m pip install --upgrade pip
+python -m pip install -r requirements-app.txt
 python -m pip install -r requirements-analysis.txt
 ~~~
 
