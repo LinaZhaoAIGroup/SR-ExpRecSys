@@ -1,0 +1,415 @@
+sub_name,sub_type,rel_type,rel_name,obj_name,obj_type
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,1W1A-Diffuse Scattering Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,1W1B-XAFS Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,1W2A-Small angle scattering experimental station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,1W2B-Comprehensive Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,3W1-High Energy Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,"1B3-Lithography, LIGA experimental station",Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4W1A-X-ray imaging station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4W1B-X-ray fluorescence microanalysis experimental station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4W2-High voltage experimental station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4B8-Vacuum UV Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4B7A-Zhongneng Experimental Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4B7B-Soft X-ray Experiment Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4B9A-Diffraction Station,Beam line
+BSRF,Beijing synchrotron radiation,Beam line,Beam line,4B9B-Photoelectron Spectroscopy Experiment Station,Beam line
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,Research areas,Research areas,"Crystalline material thin films, multilayer film nanomaterials",Research areas
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,X-ray coplanar diffraction,experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,X-ray coplanar scattering,experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,X-ray grazing incidence diffraction,experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,X-ray grazing incidence scattering,experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,X-ray reflectivity (XRR),experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,non-specular scattering,experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,experimental techniques,experimental techniques,Grazing incidence small angle X-ray scattering (GiSAXS),experimental techniques
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,energy range,Spot parameters,8.05 keV (not adjustable),Spot parameters
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E)<4.4×10-4 @ 8.05 keV,Spot parameters
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s) >1×1011 @ 8.05 keV,Spot parameters
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,Spot size at sample,Spot parameters,Spot size at sample: 1(H)×0.4(V) mm2,Spot parameters
+1W1A-Diffuse Scattering Experiment Station,1W1A Experimental Station,Line station status,Line station status,normal operation,Line station status
+1W1B-XAFS Experiment Station,1W1B experimental station,Research areas,Research areas,"Materials science, nanoscience, biomedicine, environmental science, chemistry and chemical engineering, energy catalysis, humanities and archaeology",Research areas
+1W1B-XAFS Experiment Station,1W1B experimental station,experimental techniques,experimental techniques,Transmission XAFS,experimental techniques
+1W1B-XAFS Experiment Station,1W1B experimental station,experimental techniques,experimental techniques,Fluorescence XAFS,experimental techniques
+1W1B-XAFS Experiment Station,1W1B experimental station,energy range,Spot parameters,"Energy range: 4-23 keV,,",Spot parameters
+1W1B-XAFS Experiment Station,1W1B experimental station,energy resolution,Spot parameters,Energy resolution (△E/E)<1-3×10-4 @ 9 keV,Spot parameters
+1W1B-XAFS Experiment Station,1W1B experimental station,Photon flux at sample,Spot parameters,"Photon flux at the sample (phs/s) >4×1011 @ 9 keV, 2.5 GeV, 200 mA,",Spot parameters
+1W1B-XAFS Experiment Station,1W1B experimental station,Spot size at sample,Spot parameters,Spot size at sample: 0.9(H)×0.3(V)mm2,Spot parameters
+1W1B-XAFS Experiment Station,1W1B experimental station,Line station status,Line station status,normal operation,Line station status
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Research areas,Research areas,"Nanomaterials, mesoporous materials, biological macromolecules, polymers, etc.",Research areas
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,experimental techniques,experimental techniques,Transmission small angle X-ray scattering (SAXS),experimental techniques
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,experimental techniques,experimental techniques,Wide-angle X-ray scattering (WAXS),experimental techniques
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,experimental techniques,experimental techniques,SAXS - WAXS simultaneous measurement,experimental techniques
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,experimental techniques,experimental techniques,Grazing incidence small angle X-ray scattering (GiSAXS),experimental techniques
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,experimental techniques,experimental techniques,Wide-angle X-ray scattering (WAXS),experimental techniques
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Small angle scattering resolution,Spot parameters,Small angle scattering resolution: 200 nm,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Angular resolution,Spot parameters,Angular resolution: 0.5 mrad,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Incident X-ray wavelength,Spot parameters,Incident X-ray wavelength 1.54 Å,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E)~1×10-3,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s) ≥1×1011,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Sample to detector distance,Spot parameters,"Distance from sample to detector: 0.5~5.0 m, adjustable in stages",Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Spot size on detector,Spot parameters,Spot size on the detector: 1.4 × 0.2 mm2,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Beam divergence,Spot parameters,Beam divergence ≤0.6 mrad,Spot parameters
+1W2A-Small angle scattering experimental station,1W2A Experimental Station,Line station status,Line station status,Stop running,Line station status
+1W2B-Comprehensive Experiment Station,1W2B experimental station,Research areas,Research areas,"Development of multi-method experimental techniques, conventional absorption spectroscopy, and methodological research based on high-performance detectors",Research areas
+1W2B-Comprehensive Experiment Station,1W2B experimental station,experimental techniques,experimental techniques,X-ray absorption fine structure (XAFS),experimental techniques
+1W2B-Comprehensive Experiment Station,1W2B experimental station,experimental techniques,experimental techniques,Laser pump-X-ray probe time-resolved experiment,experimental techniques
+1W2B-Comprehensive Experiment Station,1W2B experimental station,experimental techniques,experimental techniques,XAFS/XRD combined experiment,experimental techniques
+1W2B-Comprehensive Experiment Station,1W2B experimental station,experimental techniques,experimental techniques,SAXS/WAXS/XAFS combined experiment,experimental techniques
+1W2B-Comprehensive Experiment Station,1W2B experimental station,energy range,Spot parameters,Energy range: 5-18 keV,Spot parameters
+1W2B-Comprehensive Experiment Station,1W2B experimental station,energy resolution,Spot parameters,Energy resolution (△E/E) is better than 4×10-4,Spot parameters
+1W2B-Comprehensive Experiment Station,1W2B experimental station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1012,Spot parameters
+1W2B-Comprehensive Experiment Station,1W2B experimental station,Spot size at sample,Spot parameters,Spot size at sample: 1(H)×0.6(V) mm2,Spot parameters
+1W2B-Comprehensive Experiment Station,1W2B experimental station,Line station status,Line station status,normal operation,Line station status
+3W1-High Energy Experiment Station,3W1 Experimental Station,Research areas,Research areas,High energy X-ray equipment and technology validation,Research areas
+3W1-High Energy Experiment Station,3W1 Experimental Station,experimental techniques,experimental techniques,Imaging (white light & monochromatic light),experimental techniques
+3W1-High Energy Experiment Station,3W1 Experimental Station,experimental techniques,experimental techniques,High energy dynamic diffraction PDF,experimental techniques
+3W1-High Energy Experiment Station,3W1 Experimental Station,energy range,Spot parameters,Energy range: 40-80 keV white light,Spot parameters
+3W1-High Energy Experiment Station,3W1 Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E)~0.16% @ 50 keV,Spot parameters
+3W1-High Energy Experiment Station,3W1 Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 6.54×1010 @ 50 keV 2.56×1013 @ white light,Spot parameters
+3W1-High Energy Experiment Station,3W1 Experimental Station,Spot size at sample,Spot parameters,Spot size at sample: 3×3 mm2 @ 50 keV 9.37×2.47 mm2 @ white light,Spot parameters
+3W1-High Energy Experiment Station,3W1 Experimental Station,Line station status,Line station status,Stop running,Line station status
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",Research content,Research content,"Development of X-ray optical components, such as gratings, refractive lenses, etc.",Research areas
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",experimental techniques,experimental techniques,nanolithography,experimental techniques
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",experimental techniques,experimental techniques,Depth X-ray Lithography,experimental techniques
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",light type,Spot parameters,The sample is white light,Spot parameters
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",Spot size at sample,Spot parameters,Light spot horizontal width 55mm,Spot parameters
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",Light source energy,Spot parameters,"The sample stage is scanned and exposed in the vertical direction. Among them, the energy of nanolithography light source is 1-3 keV",Spot parameters
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",energy range,Spot parameters,X-ray depth lithography light source energy is 3-12 keV,Spot parameters
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",Photon flux at sample,Spot parameters,Luminous flux is greater than 1015phs/s,Spot parameters
+"1B3-Lithography, LIGA experimental station","1B3-Lithography, LIGA experimental station",Line station status,Line station status,normal operation,Line station status
+4W1A-X-ray imaging station,4W1A Experimental Station,Research content,Research content,"Crystal materials, biomedical materials, composite materials, energy materials, etc.",Research areas
+4W1A-X-ray imaging station,4W1A Experimental Station,experimental techniques,experimental techniques,Crystal morphology,experimental techniques
+4W1A-X-ray imaging station,4W1A Experimental Station,experimental techniques,experimental techniques,Micron phase contrast imaging,experimental techniques
+4W1A-X-ray imaging station,4W1A Experimental Station,experimental techniques,experimental techniques,Nano full field imaging,experimental techniques
+4W1A-X-ray imaging station,4W1A Experimental Station,energy range,Spot parameters,Micron imaging: Energy range: 6 - 26 keV,experimental techniques
+4W1A-X-ray imaging station,4W1A Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s)~1012 @ 8 keV,Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,spatial resolution,Spot parameters,"When the spatial resolution is ~10 μm, ~5 μm, ~1 μm",Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,Spot size,Spot parameters,"The spot size (H×V) is 20 mm×10 mm, 10 mm×5 mm, 2 mm×1 mm respectively.",Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,energy range,Spot parameters,Nanoimaging: Energy range: 6-10 keV,Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,Photon flux at sample,Spot parameters,Nanoimaging: Photon flux at sample (phs/s) ~ 108 @ 8 keV,Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,spatial resolution,Spot parameters,"Nanoimaging: when spatial resolution is 30 nm, 50 nm, 100 nm",Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,Spot size,Spot parameters,"Nanoimaging: Spot sizes (H×V) are 10 μm×10 μm, 15 μm×15 μm, and 65 μm×65 μm respectively.",Spot parameters
+4W1A-X-ray imaging station,4W1A Experimental Station,Line station status,Line station status,normal operation,Line station status
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,Research areas,Research areas,"Physics, catalysis, biomedicine, environmental science, materials science, humanistic archeology, legal appraisal",Research areas
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,experimental techniques,experimental techniques,X-ray fluorescence spectrometry (XRF),experimental techniques
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,experimental techniques,experimental techniques,Micro-XRF,experimental techniques
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,experimental techniques,experimental techniques,XES (emission spectrum),experimental techniques
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,experimental mode,Spot parameters,Experimental mode: pink light focus mode,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,energy range,Spot parameters,Energy range: 5-18 keV,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E)<5.5×10-4,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): >1×1010 @ 15 keV,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,Spot size at sample,Spot parameters,Spot size at sample: 50(H)×50(V) μm2,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,XRF detection limit,Spot parameters,XRF detection limit: 1 ppm,Spot parameters
+4W1B-X-ray fluorescence microanalysis experimental station,4W1B Experimental Station,Line station status,Line station status,normal operation,Line station status
+4W2-High voltage experimental station,4W2 Experimental Station,Research content,Research content,Research on physical properties under high temperature/low temperature and high pressure,Research content
+4W2-High voltage experimental station,4W2 Experimental Station,experimental techniques,experimental techniques,High pressure powder XRD,experimental techniques
+4W2-High voltage experimental station,4W2 Experimental Station,experimental techniques,experimental techniques,High-voltage single crystal XRD,experimental techniques
+4W2-High voltage experimental station,4W2 Experimental Station,experimental techniques,experimental techniques,High pressure radial XRD,experimental techniques
+4W2-High voltage experimental station,4W2 Experimental Station,energy range,Spot parameters,Energy range: 10-25 keV (monochromatic light),Spot parameters
+4W2-High voltage experimental station,4W2 Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E): 7×10-4 @ 20 keV,Spot parameters
+4W2-High voltage experimental station,4W2 Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1.2×109 @ 20 keV,Spot parameters
+4W2-High voltage experimental station,4W2 Experimental Station,Spot size at sample,Spot parameters,Spot size at sample: 33×12 μm2,Spot parameters
+4W2-High voltage experimental station,4W2 Experimental Station,Line station status,Line station status,Stop running,Line station status
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,Research areas,Research areas,Luminescent materials such as phosphors and scintillator,Research areas
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,experimental techniques,experimental techniques,Fluorescence spectrum,experimental techniques
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,experimental techniques,experimental techniques,absorption spectrum,experimental techniques
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,experimental techniques,experimental techniques,Isovacuum UV spectroscopy,experimental techniques
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,Wavelength range,Spot parameters,Wavelength range: 130-360 nm,Spot parameters
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 2×109 @ 180 nm,Spot parameters
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,Spot parameters: spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,Spot parameters
+4B8-Vacuum UV Experiment Station,4B8-Experiment Station,Line station status,Line station status,Stop running,Line station status
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,Research areas,Research areas,"Energy environment, materials, chemistry, biological science and other fields",Research areas
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,Research content,Research content,"Detector calibration, optical component characterization, X-ray radiation measurement standards",Research content
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,X-ray absorption spectroscopy (XAS),experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,X-ray optical metrology standard determination,experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,X-ray detector standard transfer and calibration,experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,Transmittance of optical components,experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,Reflectance Diffraction Efficiency Calibration,experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,experimental techniques,experimental techniques,Diffraction efficiency calibration,experimental techniques
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,energy range,Spot parameters,Energy range: Si(111): 2100-5700 eV InSb(111): 1750-3400 eV,Spot parameters
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E)~7000,Spot parameters
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): ~1x1011 @ S K-edge,Spot parameters
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 5×3 mm2,Spot parameters
+4B7A-Zhongneng Experimental Station,4B7A Experiment Station,Line station status,Line station status,normal operation,Line station status
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,Research areas,Research areas,"Energy environment, materials, chemistry and other scientific fields",Research areas
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,Research content,Research content,"Detector calibration, optical component characterization, X-ray metrology standards",Research content
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,experimental techniques,experimental techniques,Near-edge X-ray absorption spectroscopy (XANES),experimental techniques
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,experimental techniques,experimental techniques,X-ray optical metrology standard determination,experimental techniques
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,experimental techniques,experimental techniques,X-ray detector standard transfer and calibration,experimental techniques
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,experimental techniques,experimental techniques,Transmittance calibration of optical components,experimental techniques
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,experimental techniques,experimental techniques,Reflectivity Calibration of Optical Components,experimental techniques
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,energy range,Spot parameters,Energy range: 50-1700 eV,Spot parameters
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E) ~ 1000,Spot parameters
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s)>1×1010 @ Fe L-edge,Spot parameters
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,Spot size at sample,Spot parameters,"Spot size at sample: 1×0.5 mm2 (focus), up to 10×5 mm2 (defocus)",Spot parameters
+4B7B-Soft X-ray Experiment Station,4B7B Experiment Station,Line station status,Line station status,normal operation,Line station status
+4B9A-Diffraction Station,4B9A Experiment Station,Research content,Research content,"Materials science, nanoscience, catalytic energy, bioscience",Research content
+4B9A-Diffraction Station,4B9A Experiment Station,experimental techniques,experimental techniques,X-ray absorption fine structure (XAFS),experimental techniques
+4B9A-Diffraction Station,4B9A Experiment Station,experimental techniques,experimental techniques,X-ray diffraction (XRD),experimental techniques
+4B9A-Diffraction Station,4B9A Experiment Station,experimental techniques,experimental techniques,X-ray reflectivity (XRR),experimental techniques
+4B9A-Diffraction Station,4B9A Experiment Station,experimental techniques,experimental techniques,Diffraction Anomaly Fine Structure (DAFS),experimental techniques
+4B9A-Diffraction Station,4B9A Experiment Station,energy range,Spot parameters,Energy range: 5-13 keV,Spot parameters
+4B9A-Diffraction Station,4B9A Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E): 3×10-4,Spot parameters
+4B9A-Diffraction Station,4B9A Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1×1010 @ 8 keV,Spot parameters
+4B9A-Diffraction Station,4B9A Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,Spot parameters
+4B9A-Diffraction Station,4B9A Experiment Station,Angular resolution,Spot parameters,Angular resolution: 0.9 arc seconds,Spot parameters
+4B9A-Diffraction Station,4B9A Experiment Station,Line station status,Line station status,Stop running,Line station status
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,Research areas,Research areas,"Materials science, catalytic energy, electronic structure research",Research areas
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,experimental techniques,experimental techniques,Synchrotron radiation photoelectron spectroscopy (SRPES),experimental techniques
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,experimental techniques,experimental techniques,Angle resolved photoelectron spectroscopy (ARPES),experimental techniques
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,experimental techniques,experimental techniques,Soft X-ray Absorption Spectroscopy (NEXAFS),experimental techniques
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,Wavelength range,Spot parameters,Wavelength range: 130-360 nm,Spot parameters
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 2×109 @ 180 nm,Spot parameters
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,Spot parameters
+4B9B-Photoelectron Spectroscopy Experiment Station,4B9B Experiment Station,Line station status,Line station status,Stop running,Line station status
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Biomacromolecule microcrystalline diffraction line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Low dimensional structure probe line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Engineering Materials Line Station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Pink light small angle scattering ray station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Hard X-ray coherent scattering station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Hard X-ray Nanoprobe Line Station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Hard X-ray Imaging Line Station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Structural Dynamics Line Station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,X-ray microscopy imaging line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,High voltage line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,High resolution spectroscopy line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,High-resolution nanoelectronic structure line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Optical test line station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,Universal Environmental Spectroscopy Line Station,Beam line
+HEPS,high energy synchrotron radiation,Beam line,Beam line,X-ray absorption spectroscopy line station,Beam line
+Biomacromolecule microcrystalline diffraction line station,ID02,energy range,Spot parameters,5–18 keV,Spot parameters
+Biomacromolecule microcrystalline diffraction line station,ID02,energy resolution,Spot parameters,(ΔE/E)~2E-4,Spot parameters
+Biomacromolecule microcrystalline diffraction line station,ID02,Minimum spot size,Spot parameters,(H×V)1 µm × 1 µm,Spot parameters
+Biomacromolecule microcrystalline diffraction line station,ID02,Maximum spot size,Spot parameters,(H×V)18 µm × 28 µm,Spot parameters
+Biomacromolecule microcrystalline diffraction line station,ID02,Luminous flux,Spot parameters,1E13 phs/s,Spot parameters
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed – Energy Range,Spot parameters,50–170 keV,Spot parameters
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed - Energy Resolution,Spot parameters,10^{-3},Spot parameters
+Engineering Materials Line Station,ID07,Materials engineering experimental shed-spot size at sample,Spot parameters,"~1 mm × 1 mm (maximum), 5 μm × 5 μm (minimum)",Spot parameters
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Light Flux at Sample,Spot parameters,"2×10^{12} phs/s (@100 keV, 200 mA, unfocused)",Spot parameters
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Sample Bench Load,Spot parameters,">200 kg (comprehensive), >1.5 t (heavy load)",experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Single crystal diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,powder diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,depth resolved diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,time resolved diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,XRD-CT,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Full field/scan+absorption/phase contrast+projection imaging/CT,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Grain-Resolved Diffraction Contrast Imaging,experimental techniques
+Engineering Materials Line Station,ID07,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,PDF,Spot parameters
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Energy Range,Spot parameters,50–170 keV,Spot parameters
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Energy Resolution,Spot parameters,10^{-3},Spot parameters
+Engineering Materials Line Station,ID07,Materials chemistry experimental shed-spot size at sample,Spot parameters,~0.7 mm × 0.7 mm,Spot parameters
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Light Flux at Sample,Spot parameters,"2×10^{12} phs/s (@100 keV, 200 mA, unfocused)",Spot parameters
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Sample Stage Load,Spot parameters,>200 kg,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,SAXS,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,WAXS,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,SAXS+WAXS,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,Time-resolved SAXS,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,PDF,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,Single crystal diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,powder diffraction,experimental techniques
+Engineering Materials Line Station,ID07,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,Full field/scan+absorption/phase contrast+projection imaging/CT,Spot parameters
+Pink light small angle scattering ray station,ID08,energy range,Spot parameters,8–12 keV,Spot parameters
+Pink light small angle scattering ray station,ID08,energy resolution,Spot parameters,1%,Spot parameters
+Pink light small angle scattering ray station,ID08,Minimum spot,Spot parameters,100 µm × 100 µm,Spot parameters
+Pink light small angle scattering ray station,ID08,Maximum spot,Spot parameters,500 µm × 500 µm,Spot parameters
+Pink light small angle scattering ray station,ID08,Luminous flux,Spot parameters,5E14,sample environment
+Pink light small angle scattering ray station,ID08,sample environment,sample environment,"High temperature, low temperature, stretching, liquid phase synthesis",experimental techniques
+Pink light small angle scattering ray station,ID08,experimental techniques,experimental techniques,"WAXS, SAXS, USAXS technology or combined measurements.",experimental techniques
+Pink light small angle scattering ray station,ID08,experimental techniques,experimental techniques,Grazing-incidence wide-angle X-ray scattering (GiWAXS),experimental techniques
+Pink light small angle scattering ray station,ID08,experimental techniques,experimental techniques,Grazing incidence small angle X-ray scattering (GiSAXS),experimental techniques
+Pink light small angle scattering ray station,ID08,experimental techniques,experimental techniques,Dynamic scattering detection with millisecond time resolution (T-SAXS),sample environment
+Low dimensional structure probe line station,ID05,sample environment,sample environment,High temperature: 300–1573 K.,sample environment
+Low dimensional structure probe line station,ID05,sample environment,sample environment,Low temperature: 5–300 K.,sample environment
+Low dimensional structure probe line station,ID05,sample environment,sample environment,Vacuum: 10^{-7} Pa.,experimental techniques
+Low dimensional structure probe line station,ID05,experimental techniques,experimental techniques,X-ray diffraction (XRD),experimental techniques
+Low dimensional structure probe line station,ID05,experimental techniques,experimental techniques,GIWAXS,experimental techniques
+Low dimensional structure probe line station,ID05,experimental techniques,experimental techniques,PDF,experimental techniques
+Low dimensional structure probe line station,ID05,experimental techniques,experimental techniques,XPCS ,experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,Coherent X-ray Diffraction Imaging (CDI),experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,X-ray photon correlation spectroscopy (XPCS),experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,Scanning coherence diffraction imaging (Ptychography),experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,Prague CDI (BCDI),experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,SAXS CDI,experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,SAXS XPCS,experimental techniques
+Hard X-ray coherent scattering station,ID09,experimental techniques,experimental techniques,WAXS XPCS,Spot parameters
+Hard X-ray coherent scattering station,ID09,energy range,Spot parameters,7–25 keV,Spot parameters
+Hard X-ray coherent scattering station,ID09,energy resolution,Spot parameters,10^{-4},Spot parameters
+Hard X-ray coherent scattering station,ID09,coherent flux,Spot parameters,Greater than 10^{12} ph/s; adjustable coherence (coherence component 0.5–0.95),Spot parameters
+Hard X-ray coherent scattering station,ID09,Spot size-Ptychography,Spot parameters,Spot size 100 nm–5 μm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Resolution-Ptychography,Spot parameters,Resolution 1–50 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Field of View-Ptychography,Spot parameters,Field of view 1–100 μm.,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spot size-SAXS CDI,Spot parameters,Spot size 2–20 μm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Resolution-SAXS CDI,Spot parameters,Resolution 1–10 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Field of View-SAXS CDI,Spot parameters,Field of view 1–10 μm.,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spot size-BCDI,Spot parameters,Spot size 100–500 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Resolution-BCDI,Spot parameters,Resolution 1–10 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Field of View-BCDI,Spot parameters,Field of view 50–500 nn.,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spot size-SAXS XPCS,Spot parameters,Spot size 10–20 μm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spatial scale-SAXS XPCS,Spot parameters,Spatial scale 1–200 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Timescale - SAXS XPCS,Spot parameters,Time scale 1000 s–1 μs.,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spot size-WAXS XPCS,Spot parameters,Spot size 100 nm–2 μm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Spatial scale-WAXS XPCS,Spot parameters,Spatial scale 0.1–1 nm;,Spot parameters
+Hard X-ray coherent scattering station,ID09,Timescale-WAXS XPCS,Spot parameters,Time scale 1000 s–1 μs.,experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,High-resolution fluorescence imaging (n-XRF).,experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,Scanning coherence diffraction imaging (Ptychography).,experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,Nano-holographic coherence imaging (Nano-holography).,experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,Nanodiffraction (n-XRD),experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,Near-edge X-ray absorption spectroscopy (XANES),experimental techniques
+Hard X-ray Nanoprobe Line Station,ID19,experimental techniques,experimental techniques,Online scanning electron microscopy (SEM),Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,energy range,Spot parameters,5–30 keV,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,energy resolution,Spot parameters,10^{-4}~10^{-5},Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Minimum focus spot - high resolution mode,Spot parameters,<10 nm,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Minimum focus spot-in-situ mode,Spot parameters,<50 nm,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Luminous Flux-High Resolution Mode,Spot parameters,10^{9}~10^{10} phs/s @10 keV,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Luminous flux-in-situ mode,Spot parameters,10^{10}~10^{11} phs/s @10 keV,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Focused spot working distance-high resolution mode,Spot parameters,1–2 mm,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Focused spot working distance-in-situ mode,Spot parameters,40–50 mm,Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Sample size,Spot parameters,Sub-micron to millimeter scale (sub-μm ~ mm),Spot parameters
+Hard X-ray Nanoprobe Line Station,ID19,Imaging resolution,Spot parameters,"Sample information (structure, elements, valence state, etc.) imaging resolution is approximately nanometer scale",
+Hard X-ray Imaging Line Station,ID21,,,,
+Structural Dynamics Line Station,ID23,experimental techniques,experimental techniques,Time-resolved X-ray diffraction,experimental techniques
+Structural Dynamics Line Station,ID23,experimental techniques,experimental techniques,Time-resolved X-ray phase contrast imaging,experimental techniques
+Structural Dynamics Line Station,ID23,experimental techniques,experimental techniques,Time-resolved X-ray scattering,experimental techniques
+Structural Dynamics Line Station,ID23,experimental techniques,experimental techniques,Time-resolved X-ray nanoimaging,Spot parameters
+Structural Dynamics Line Station,ID23,Optical mode - white light mode,Spot parameters,Spot size 1 mm–14 mm; single pulse intensity >10^{9} phs/pulse; luminous flux >10^{16} phs/s.,Spot parameters
+Structural Dynamics Line Station,ID23,Optical mode - Micron mode,Spot parameters,Spot size 5 μm–500 μm; luminous flux >10^{15} phs/s; photon energy 20–70 keV; energy resolution 0.5%–2.8%.,Spot parameters
+Structural Dynamics Line Station,ID23,Optical Mode-Nano Mode,Spot parameters,Spot size <50 nm; luminous flux >10^{14} phs/s; photon energy 21.8 keV; energy resolution 1.2%.,Spot parameters
+X-ray microscopy imaging line station,ID30,Imaging highest spatial resolution,Spot parameters,20 nm,Spot parameters
+X-ray microscopy imaging line station,ID30,energy range,Spot parameters,5–15 keV,Spot parameters
+X-ray microscopy imaging line station,ID30,Photon flux at sample,Spot parameters,~1E11 phs/s,Spot parameters
+X-ray microscopy imaging line station,ID30,Energy resolution (ΔE/E),Spot parameters,≈1E-4,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,Powder XRD,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,Single crystal XRD,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,Multi-grain XRD,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,Radial XRD,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,High voltage PDF,experimental techniques
+High voltage line station,ID31,experimental techniques,experimental techniques,time resolved diffraction,sample environment
+High voltage line station,ID31,sample environment,sample environment,low temperature,sample environment
+High voltage line station,ID31,sample environment,sample environment,Resistance heating,sample environment
+High voltage line station,ID31,sample environment,sample environment,dynamic loading,sample environment
+High voltage line station,ID31,sample environment,sample environment,Double-sided infrared laser heating,sample environment
+High voltage line station,ID31,sample environment,sample environment,PE type press,Spot parameters
+High voltage line station,ID31,light source,Spot parameters,undulator IVU19.9,Spot parameters
+High voltage line station,ID31,total length,Spot parameters,4.0 m,Spot parameters
+High voltage line station,ID31,cycle length,Spot parameters,19.9 mm,Spot parameters
+High voltage line station,ID31,FWHM opening angle @Kmax,Spot parameters,0.26 (H) × 0.11 (V) mrad^2,Spot parameters
+High voltage line station,ID31,Fundamental light source FWHM size @Kmax,Spot parameters,21.9 (H) × 9.0 (V) μm^2,Spot parameters
+High voltage line station,ID31,Fundamental light source FWHM divergence angle @Kmax,Spot parameters,13.6 (H) × 11.8 (V) μrad^2,Spot parameters
+High voltage line station,ID31,Photon brightness@30 keV,Spot parameters,1.7 × 10^{22} phs/s/mm^2/mrad^2/0.1%B.W.,Spot parameters
+High voltage line station,ID31,Photon flux@30 keV,Spot parameters,3.8 × 10^{14} phs/s/0.1%B.W. @16 μrad × 16 μrad,Spot parameters
+High resolution spectroscopy line station,ID33,Energy range keV,Spot parameters,7–26 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Energy Resolution-NRS,Spot parameters,1 meV @14.4 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Energy Resolution-XRS,Spot parameters,0.7 eV @9.7 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Energy Resolution-RIXS,Spot parameters,100 meV @8.9 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Focused spot size is smallest,Spot parameters,2 µm × 2 µm,Spot parameters
+High resolution spectroscopy line station,ID33,Luminous flux at sample-NRS,Spot parameters,~1.5×10^{10} phs/s/meV @14.4 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Light flux at sample-XRS,Spot parameters,~3×10^{13} phs/s @9.7 keV,Spot parameters
+High resolution spectroscopy line station,ID33,Luminous flux at sample-RIXS,Spot parameters,~5×10^{12} phs/s @8.9 keV,Spot parameters
+High-resolution nanoelectronic structure line station,ID41,,,,
+Optical test line station,ID42,,,,
+X-ray absorption spectroscopy line station,ID46,energy range,Spot parameters,4.8–45 keV,Spot parameters
+X-ray absorption spectroscopy line station,ID46,energy resolution,Spot parameters,2×10^{-4}(Si(111)); 4×10^{-5}(Si(311)),Spot parameters
+X-ray absorption spectroscopy line station,ID46,Spot size,Spot parameters,~2 mm × 2 mm; ≤0.35 μm × 0.35 μm (focus mode),Spot parameters
+X-ray absorption spectroscopy line station,ID46,Luminous flux,Spot parameters,2×10^{13} ph/s @10 keV; 5×10^{12} ph/s @10 keV (focus mode),Spot parameters
+Universal Environmental Spectroscopy Line Station,BM44,energy range,Spot parameters,2.1–10 keV,Spot parameters
+Universal Environmental Spectroscopy Line Station,BM44,energy resolution,Spot parameters,~2E-4,Spot parameters
+Universal Environmental Spectroscopy Line Station,BM44,Minimum spot size,Spot parameters,20 µm × 20 µm,Spot parameters
+Universal Environmental Spectroscopy Line Station,BM44,Maximum spot size,Spot parameters,15000 µm × 1500 µm,Spot parameters
+Universal Environmental Spectroscopy Line Station,BM44,Luminous flux,Spot parameters,1E10 ~ 1E12 phs/s,sample environment
+Universal Environmental Spectroscopy Line Station,BM44,sample environment,sample environment,high temperature/low temperature,experimental techniques
+Universal Environmental Spectroscopy Line Station,BM44,experimental techniques,experimental techniques,X-ray absorption fine structure (XAFS),experimental techniques
+Universal Environmental Spectroscopy Line Station,BM44,experimental techniques,experimental techniques,Near-edge X-ray absorption spectroscopy (XANES),experimental techniques
+Universal Environmental Spectroscopy Line Station,BM44,experimental techniques,experimental techniques,X-ray fluorescence spectrometry (XRF),experimental techniques
+HEPS,high energy synchrotron radiation,Storage ring energy,HEPS electronic energy,6GeV,HEPS parameters
+HEPS,high energy synchrotron radiation,brightness,HEPS brightness,1 × 10^22 phs/s/mm2/mrad2/0.1%BW,HEPS parameters
+Phase I,HEPS first phase,construction,HEPS construction,Biomacromolecule microcrystalline diffraction line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Low dimensional structure probe line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Engineering Materials Line Station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Pink light small angle scattering ray station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Hard X-ray coherent scattering station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Hard X-ray Nanoprobe Line Station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Hard X-ray Imaging Line Station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Structural Dynamics Line Station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,X-ray microscopy imaging line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,High voltage line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,High resolution spectroscopy line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,High-resolution nanoelectronic structure line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Optical test line station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,Universal Environmental Spectroscopy Line Station,HEPS first phase
+Phase I,HEPS first phase,construction,HEPS construction,X-ray absorption spectroscopy line station,HEPS first phase
+Phase I,HEPS first phase,Line station status,HEPS construction,Open in the first round,Line station status
+Phase I,HEPS first phase,Line station status,HEPS construction,Not open yet,Line station status
+Universal Environmental Spectroscopy Line Station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+X-ray microscopy imaging line station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+Pink light small angle scattering ray station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+Biomacromolecule microcrystalline diffraction line station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+Low dimensional structure probe line station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+High voltage line station,Beam line,Line station status,Line station status,Open in the first round,Line station status
+Engineering Materials Line Station,Beam line,Line station status,Line station status,Not open yet,Line station status
+Hard X-ray coherent scattering station,Beam line,Line station status,Line station status,Not open yet,Line station status
+Hard X-ray Nanoprobe Line Station,Beam line,Line station status,Line station status,Not open yet,Line station status
+Structural Dynamics Line Station,Beam line,Line station status,Line station status,Not open yet,Line station status
+High resolution spectroscopy line station,Beam line,Line station status,Line station status,Not open yet,Line station status
+High-resolution nanoelectronic structure line station,Beam line,Line station status,Line station status,Not open yet,Line station status
+Optical test line station,Beam line,Line station status,Line station status,Not open yet,Line station status
+X-ray absorption spectroscopy line station,Beam line,Line station status,Line station status,Not open yet,Line station status
+HEPS,high energy synchrotron radiation,Application for trial subject,HEPS trial subject application,"#HEPS Pilot Proposal Application Instructions
+1. HEPS user service system website address: https://user.heps.ihep.ac.cn/.
+If you have any comments or suggestions for improving the Pilot Proposal application, please send feedback to the HEPS User Office email (heps-user@ihep.ac.cn).
+
+2. System registration:
+(1) Users who already have an account on the Chinese Academy of Sciences' Major Science and Technology Infrastructure Shared Service Platform (hereinafter referred to as the Academy Platform) (https://lssf.cas.cn/) can directly log in to the HEPS user service system. The login account is the email address registered when registering the Academy Platform (please note that it is not the login account of the Academy Platform), and the password is the platform password of the same Academy.
+(2) For users who do not have a hospital platform account, please click ""Create a new account?"" on the home page of the HEPS user service system to register. After registration, re-visit the HEPS user service system to log in. Login account: the email address registered during registration. Password: the password set during registration.
+
+3. Topic application:
+(1) Applicants must be employed and can submit a project application only after contacting the pilot proposal contact person at the corresponding line station.
+(2) After entering the HEPS user service system, click ""Pilot Proposal"" on the left side of the page to start filling in the application.
+(3) There are 7 steps in the project application. Please fill in and submit according to the requirements. Application steps: The application form is divided into 7 steps (project type, user commitment, basic information, project members, project details, sample safety, auxiliary materials), which can be switched through the digital steps above or the ""Previous"" and ""Next"" interface.
+Operating functions:
+The final PDF document can be viewed through the ""Preview"" button;
+If you haven't completed it, you can temporarily save it through the ""Save"" button, and you can find it in ""My Topics"" later;
+After filling in, click ""Submit"". It cannot be modified after submission.
+Trial topic description:
+The pilot project (PILOT proposal) is the type of project that is open for experimentation during line station commissioning. 6 line stations are open in the first round (a total of 14 line stations in the first phase of HEPS);
+The first round of applications is due until December 31, 2025. Late applications must be submitted after the validity period of the line station opens.
+Application requirements:
+Applicants need to communicate with line station personnel, select the corresponding line station personnel in the ""Project Details"" link and explain the communication situation;
+Topic applications must first be reviewed online.
+First round of open line stations:
+BM44 Universal Environmental Spectroscopy Line Station
+ID30 X-ray Imaging Line Station
+ID08 Powder Small Angle Scattered Ray Station
+ID02 biological macromolecule diffraction line station
+ID05 low-dimensional structure probe line station
+ID31 high voltage line station
+
+(4) After the project review and approval is completed, the HEPS user service system will send an email to notify you of the review results.
+
+4. Machine schedule:
+For approved trial proposals (Pilot Proposal), line station staff will arrange the time according to the specific conditions of the line station, please wait patiently for notification.
+
+5. Application for visit:
+(1) After the flight schedule is confirmed, the HEPS user service system will send an email notification to remind you to fill in the visit application.
+(2) When selecting the corresponding experimental machine in the ""Visit Application"" module of the HEPS user service system, fill in and submit the visit information of all personnel who plan to conduct experiments on site. Requirements for visitors to fill in:
+- Have a registered account on the hospital platform and fill in the ID number;
+- Passed the ""HEPS User Security Training Examination"" in the HEPS User Service System.
+(3) After the visit is approved, all visitors will receive an email from the system regarding the experimental account, password, BeamtimeID, etc.
+(4) It is recommended to fill in the visit application at least 3 days in advance to facilitate: 1. Arranging dose cards and access cards; 2. All visitors will receive notifications about the experimental account, password and BeamtimeID, and have permission to download experimental data after the experiment is completed.
+
+6. User accommodation:
+If users have accommodation needs, please contact the front desk of HEPS Guest House in advance (tel: 01069680831, 18001162658).
+
+7. User on-site experiments:
+1. Dosage Card and Access Card:
+After users arrive at HEPS, they contact line station personnel to receive dosage cards, access cards and register.
+2. Conduct experiments:
+Users conduct experiments based on the experimental account, password and BeamtimeID in the visit notification email.
+
+8. After the experiment:
+1. Users fill in the experiment registration form (form provided on site) and provide feedback or suggestions on the online site trial;
+2. The user returns the dose card and access card before leaving HEPS (if any is lost or damaged, compensation must be paid);
+3. You can click the ""Data Service"" menu bar in the HEPS user service system to jump to the HEPS user data service system or directly access the HEPS user data service system through the following URL (https://data.heps.ihep.ac.cn/) to download experimental data (download account: the experimental account and password in the visit notification email or the registered email address and password of the experimenter on the hospital platform).
+
+9. Contact information:
+1. User Office: Yu Meijuan, 15311488165, yumj@ihep.ac.cn
+2. Experimental data management: Guo Yilei, ylguo@ihep.ac.cn, 18614046290; Hu Peng, hup@ihep.ac.cn, 15600290501
+3. HEPS Guest House Front Desk: 010-69680831, 18001162658",HEPS trial subject application steps

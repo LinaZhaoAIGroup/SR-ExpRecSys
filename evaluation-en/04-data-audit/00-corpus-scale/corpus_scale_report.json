@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "file": "BSRF-HEPS-KnowledgeBase-k-v.xlsx",
+    "file_size_bytes": 71248,
+    "file_size_kib": 69.58,
+    "sheet": "Sheet1",
+    "worksheet_max_row": 551,
+    "worksheet_max_column": 2,
+    "blank_rows_within_used_range": 0
+  },
+  "record_scale": {
+    "nonempty_data_rows": 550,
+    "complete_kv_records": 550,
+    "incomplete_records": 0,
+    "missing_key_rows": [],
+    "missing_value_rows": [],
+    "substantive_kv_records": 527,
+    "substantive_record_rate": 0.958182,
+    "placeholder_records": 23,
+    "placeholder_rate": 0.041818,
+    "placeholder_counts": {
+      "[Picture placeholder]": 13,
+      "——": 10
+    }
+  },
+  "deduplication_scale": {
+    "keys": {
+      "unique_count": 472,
+      "repeated_groups": 26,
+      "rows_in_repeated_groups": 104,
+      "extra_duplicate_rows": 78,
+      "duplicate_rate": 0.141818
+    },
+    "values": {
+      "unique_count": 480,
+      "repeated_groups": 32,
+      "rows_in_repeated_groups": 102,
+      "extra_duplicate_rows": 70,
+      "duplicate_rate": 0.127273
+    },
+    "kv_pairs": {
+      "unique_count": 547,
+      "repeated_groups": 3,
+      "rows_in_repeated_groups": 6,
+      "extra_duplicate_rows": 3,
+      "duplicate_rate": 0.005455
+    },
+    "one_to_many_key_count": 25,
+    "one_to_many_key_rate": 0.052966,
+    "substantive_unique_keys": 449,
+    "substantive_unique_values": 478,
+    "substantive_unique_kv_pairs": 524
+  },
+  "text_scale_all_records": {
+    "key": {
+      "records": 550,
+      "length": {
+        "total": 43183,
+        "mean": 78.51,
+        "median": 73,
+        "min": 31,
+        "p25": 60,
+        "p75": 90,
+        "p90": 117.1,
+        "p95": 139.55,
+        "max": 168
+      },
+      "characters": {
+        "total": 43183,
+        "without_whitespace": 39045,
+        "whitespace": 4138,
+        "chinese": 0,
+        "english_word_units": 4750,
+        "number_sequences": 329
+      }
+    },
+    "value": {
+      "records": 550,
+      "length": {
+        "total": 188787,
+        "mean": 343.25,
+        "median": 54,
+        "min": 2,
+        "p25": 24,
+        "p75": 201,
+        "p90": 760.5,
+        "p95": 1522.15,
+        "max": 8861
+      },
+      "characters": {
+        "total": 188787,
+        "without_whitespace": 160300,
+        "whitespace": 28487,
+        "chinese": 0,
+        "english_word_units": 28429,
+        "number_sequences": 1502
+      }
+    },
+    "key_value": {
+      "records": 550,
+      "length": {
+        "total": 231970,
+        "mean": 421.76,
+        "median": 129.5,
+        "min": 48,
+        "p25": 96,
+        "p75": 285,
+        "p90": 867.3,
+        "p95": 1597.45,
+        "max": 8935
+      },
+      "characters": {
+        "total": 231970,
+        "without_whitespace": 199345,
+        "whitespace": 32625,
+        "chinese": 0,
+        "english_word_units": 32775,
+        "number_sequences": 1831
+      }
+    },
+    "approximate_tokens": {
+      "available": false,
+      "encoding": "cl100k_base",
+      "total": null,
+      "mean_per_record": null,
+      "note": "The tokenizer data are unavailable locally; token count was omitted."
+    }
+  },
+  "text_scale_substantive_records": {
+    "key": {
+      "records": 527,
+      "length": {
+        "total": 40839,
+        "mean": 77.49,
+        "median": 73,
+        "min": 31,
+        "p25": 59,
+        "p75": 89,
+        "p90": 112.4,
+        "p95": 137.7,
+        "max": 168
+      },
+      "characters": {
+        "total": 40839,
+        "without_whitespace": 36907,
+        "whitespace": 3932,
+        "chinese": 0,
+        "english_word_units": 4523,
+        "number_sequences": 323
+      }
+    },
+    "value": {
+      "records": 527,
+      "length": {
+        "total": 188494,
+        "mean": 357.67,
+        "median": 59,
+        "min": 2,
+        "p25": 27,
+        "p75": 211.5,
+        "p90": 783.4,
+        "p95": 1651.8,
+        "max": 8861
+      },
+      "characters": {
+        "total": 188494,
+        "without_whitespace": 160020,
+        "whitespace": 28474,
+        "chinese": 0,
+        "english_word_units": 28403,
+        "number_sequences": 1502
+      }
+    },
+    "key_value": {
+      "records": 527,
+      "length": {
+        "total": 229333,
+        "mean": 435.17,
+        "median": 131,
+        "min": 48,
+        "p25": 96.5,
+        "p75": 305.5,
+        "p90": 876,
+        "p95": 1715.1,
+        "max": 8935
+      },
+      "characters": {
+        "total": 229333,
+        "without_whitespace": 196927,
+        "whitespace": 32406,
+        "chinese": 0,
+        "english_word_units": 32522,
+        "number_sequences": 1825
+      }
+    },
+    "approximate_tokens": {
+      "available": false,
+      "encoding": "cl100k_base",
+      "total": null,
+      "mean_per_record": null,
+      "note": "The tokenizer data are unavailable locally; token count was omitted."
+    }
+  }
+}

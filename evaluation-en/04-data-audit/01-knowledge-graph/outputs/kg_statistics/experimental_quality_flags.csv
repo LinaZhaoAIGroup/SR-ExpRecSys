@@ -1,0 +1,218 @@
+﻿issue,source_row,sub_name,rel_type,rel_name,obj_name,detail
+incomplete_triple,268,Hard X-ray Imaging Line Station,,,,subject/relation/object At least one item is empty
+incomplete_triple,307,High-resolution nanoelectronic structure line station,,,,subject/relation/object At least one item is empty
+incomplete_triple,308,Optical test line station,,,,subject/relation/object At least one item is empty
+exact_duplicate_group,39;42,1W2A-Small angle scattering experimental station,,experimental techniques,Wide-angle X-ray scattering (WAXS),appear2 times
+exact_duplicate_group,184;197,Engineering Materials Line Station,,Spot parameters,50–170 keV,appear2 times
+exact_duplicate_group,185;198,Engineering Materials Line Station,,Spot parameters,10^{-3},appear2 times
+exact_duplicate_group,187;200,Engineering Materials Line Station,,Spot parameters,"2×10^{12} phs/s (@100 keV, 200 mA, unfocused)",appear2 times
+exact_duplicate_group,189;207,Engineering Materials Line Station,,experimental techniques,Single crystal diffraction,appear2 times
+exact_duplicate_group,190;208,Engineering Materials Line Station,,experimental techniques,powder diffraction,appear2 times
+exact_duplicate_group,194;209,Engineering Materials Line Station,,experimental techniques,Full field/scan+absorption/phase contrast+projection imaging/CT,appear2 times
+exact_duplicate_group,196;206,Engineering Materials Line Station,,experimental techniques,PDF,appear2 times
+exact_duplicate_group,241;244,Hard X-ray coherent scattering station,,Spot parameters,Resolution 1–10 nm;,appear2 times
+exact_duplicate_group,248;251,Hard X-ray coherent scattering station,,Spot parameters,Time scale 1000 s–1 μs.,appear2 times
+relation_label_mismatch,24,1W1A-Diffuse Scattering Experiment Station,energy range,Spot parameters,8.05 keV (not adjustable),rel_type withrel_name Not the same
+relation_label_mismatch,25,1W1A-Diffuse Scattering Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E)<4.4×10-4 @ 8.05 keV,rel_type withrel_name Not the same
+relation_label_mismatch,26,1W1A-Diffuse Scattering Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s) >1×1011 @ 8.05 keV,rel_type withrel_name Not the same
+relation_label_mismatch,27,1W1A-Diffuse Scattering Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 1(H)×0.4(V) mm2,rel_type withrel_name Not the same
+relation_label_mismatch,32,1W1B-XAFS Experiment Station,energy range,Spot parameters,"Energy range: 4-23 keV,,",rel_type withrel_name Not the same
+relation_label_mismatch,33,1W1B-XAFS Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E)<1-3×10-4 @ 9 keV,rel_type withrel_name Not the same
+relation_label_mismatch,34,1W1B-XAFS Experiment Station,Photon flux at sample,Spot parameters,"Photon flux at the sample (phs/s) >4×1011 @ 9 keV, 2.5 GeV, 200 mA,",rel_type withrel_name Not the same
+relation_label_mismatch,35,1W1B-XAFS Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 0.9(H)×0.3(V)mm2,rel_type withrel_name Not the same
+relation_label_mismatch,43,1W2A-Small angle scattering experimental station,Small angle scattering resolution,Spot parameters,Small angle scattering resolution: 200 nm,rel_type withrel_name Not the same
+relation_label_mismatch,44,1W2A-Small angle scattering experimental station,Angular resolution,Spot parameters,Angular resolution: 0.5 mrad,rel_type withrel_name Not the same
+relation_label_mismatch,45,1W2A-Small angle scattering experimental station,Incident X-ray wavelength,Spot parameters,Incident X-ray wavelength 1.54 Å,rel_type withrel_name Not the same
+relation_label_mismatch,46,1W2A-Small angle scattering experimental station,energy resolution,Spot parameters,Energy resolution (△E/E)~1×10-3,rel_type withrel_name Not the same
+relation_label_mismatch,47,1W2A-Small angle scattering experimental station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s) ≥1×1011,rel_type withrel_name Not the same
+relation_label_mismatch,48,1W2A-Small angle scattering experimental station,Sample to detector distance,Spot parameters,"Distance from sample to detector: 0.5~5.0 m, adjustable in stages",rel_type withrel_name Not the same
+relation_label_mismatch,49,1W2A-Small angle scattering experimental station,Spot size on detector,Spot parameters,Spot size on the detector: 1.4 × 0.2 mm2,rel_type withrel_name Not the same
+relation_label_mismatch,50,1W2A-Small angle scattering experimental station,Beam divergence,Spot parameters,Beam divergence ≤0.6 mrad,rel_type withrel_name Not the same
+relation_label_mismatch,57,1W2B-Comprehensive Experiment Station,energy range,Spot parameters,Energy range: 5-18 keV,rel_type withrel_name Not the same
+relation_label_mismatch,58,1W2B-Comprehensive Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E) is better than 4×10-4,rel_type withrel_name Not the same
+relation_label_mismatch,59,1W2B-Comprehensive Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1012,rel_type withrel_name Not the same
+relation_label_mismatch,60,1W2B-Comprehensive Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 1(H)×0.6(V) mm2,rel_type withrel_name Not the same
+relation_label_mismatch,65,3W1-High Energy Experiment Station,energy range,Spot parameters,Energy range: 40-80 keV white light,rel_type withrel_name Not the same
+relation_label_mismatch,66,3W1-High Energy Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E)~0.16% @ 50 keV,rel_type withrel_name Not the same
+relation_label_mismatch,67,3W1-High Energy Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 6.54×1010 @ 50 keV 2.56×1013 @ white light,rel_type withrel_name Not the same
+relation_label_mismatch,68,3W1-High Energy Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 3×3 mm2 @ 50 keV 9.37×2.47 mm2 @ white light,rel_type withrel_name Not the same
+relation_label_mismatch,73,"1B3-Lithography, LIGA experimental station",light type,Spot parameters,The sample is white light,rel_type withrel_name Not the same
+relation_label_mismatch,74,"1B3-Lithography, LIGA experimental station",Spot size at sample,Spot parameters,Light spot horizontal width 55mm,rel_type withrel_name Not the same
+relation_label_mismatch,75,"1B3-Lithography, LIGA experimental station",Light source energy,Spot parameters,"The sample stage is scanned and exposed in the vertical direction. Among them, the energy of nanolithography light source is 1-3 keV",rel_type withrel_name Not the same
+relation_label_mismatch,76,"1B3-Lithography, LIGA experimental station",energy range,Spot parameters,X-ray depth lithography light source energy is 3-12 keV,rel_type withrel_name Not the same
+relation_label_mismatch,77,"1B3-Lithography, LIGA experimental station",Photon flux at sample,Spot parameters,Luminous flux is greater than 1015phs/s,rel_type withrel_name Not the same
+relation_label_mismatch,83,4W1A-X-ray imaging station,energy range,Spot parameters,Micron imaging: Energy range: 6 - 26 keV,rel_type withrel_name Not the same
+relation_label_mismatch,84,4W1A-X-ray imaging station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s)~1012 @ 8 keV,rel_type withrel_name Not the same
+relation_label_mismatch,85,4W1A-X-ray imaging station,spatial resolution,Spot parameters,"When the spatial resolution is ~10 μm, ~5 μm, ~1 μm",rel_type withrel_name Not the same
+relation_label_mismatch,86,4W1A-X-ray imaging station,Spot size,Spot parameters,"The spot size (H×V) is 20 mm×10 mm, 10 mm×5 mm, 2 mm×1 mm respectively.",rel_type withrel_name Not the same
+relation_label_mismatch,87,4W1A-X-ray imaging station,energy range,Spot parameters,Nanoimaging: Energy range: 6-10 keV,rel_type withrel_name Not the same
+relation_label_mismatch,88,4W1A-X-ray imaging station,Photon flux at sample,Spot parameters,Nanoimaging: Photon flux at sample (phs/s) ~ 108 @ 8 keV,rel_type withrel_name Not the same
+relation_label_mismatch,89,4W1A-X-ray imaging station,spatial resolution,Spot parameters,"Nanoimaging: when spatial resolution is 30 nm, 50 nm, 100 nm",rel_type withrel_name Not the same
+relation_label_mismatch,90,4W1A-X-ray imaging station,Spot size,Spot parameters,"Nanoimaging: Spot sizes (H×V) are 10 μm×10 μm, 15 μm×15 μm, and 65 μm×65 μm respectively.",rel_type withrel_name Not the same
+relation_label_mismatch,96,4W1B-X-ray fluorescence microanalysis experimental station,experimental mode,Spot parameters,Experimental mode: pink light focus mode,rel_type withrel_name Not the same
+relation_label_mismatch,97,4W1B-X-ray fluorescence microanalysis experimental station,energy range,Spot parameters,Energy range: 5-18 keV,rel_type withrel_name Not the same
+relation_label_mismatch,98,4W1B-X-ray fluorescence microanalysis experimental station,energy resolution,Spot parameters,Energy resolution (△E/E)<5.5×10-4,rel_type withrel_name Not the same
+relation_label_mismatch,99,4W1B-X-ray fluorescence microanalysis experimental station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): >1×1010 @ 15 keV,rel_type withrel_name Not the same
+relation_label_mismatch,100,4W1B-X-ray fluorescence microanalysis experimental station,Spot size at sample,Spot parameters,Spot size at sample: 50(H)×50(V) μm2,rel_type withrel_name Not the same
+relation_label_mismatch,101,4W1B-X-ray fluorescence microanalysis experimental station,XRF detection limit,Spot parameters,XRF detection limit: 1 ppm,rel_type withrel_name Not the same
+relation_label_mismatch,107,4W2-High voltage experimental station,energy range,Spot parameters,Energy range: 10-25 keV (monochromatic light),rel_type withrel_name Not the same
+relation_label_mismatch,108,4W2-High voltage experimental station,energy resolution,Spot parameters,Energy resolution (△E/E): 7×10-4 @ 20 keV,rel_type withrel_name Not the same
+relation_label_mismatch,109,4W2-High voltage experimental station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1.2×109 @ 20 keV,rel_type withrel_name Not the same
+relation_label_mismatch,110,4W2-High voltage experimental station,Spot size at sample,Spot parameters,Spot size at sample: 33×12 μm2,rel_type withrel_name Not the same
+relation_label_mismatch,116,4B8-Vacuum UV Experiment Station,Wavelength range,Spot parameters,Wavelength range: 130-360 nm,rel_type withrel_name Not the same
+relation_label_mismatch,117,4B8-Vacuum UV Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 2×109 @ 180 nm,rel_type withrel_name Not the same
+relation_label_mismatch,118,4B8-Vacuum UV Experiment Station,Spot parameters: spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,rel_type withrel_name Not the same
+relation_label_mismatch,128,4B7A-Zhongneng Experimental Station,energy range,Spot parameters,Energy range: Si(111): 2100-5700 eV InSb(111): 1750-3400 eV,rel_type withrel_name Not the same
+relation_label_mismatch,129,4B7A-Zhongneng Experimental Station,energy resolution,Spot parameters,Energy resolution (△E/E)~7000,rel_type withrel_name Not the same
+relation_label_mismatch,130,4B7A-Zhongneng Experimental Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): ~1x1011 @ S K-edge,rel_type withrel_name Not the same
+relation_label_mismatch,131,4B7A-Zhongneng Experimental Station,Spot size at sample,Spot parameters,Spot size at sample: 5×3 mm2,rel_type withrel_name Not the same
+relation_label_mismatch,140,4B7B-Soft X-ray Experiment Station,energy range,Spot parameters,Energy range: 50-1700 eV,rel_type withrel_name Not the same
+relation_label_mismatch,141,4B7B-Soft X-ray Experiment Station,energy resolution,Spot parameters,Energy resolution (△E/E) ~ 1000,rel_type withrel_name Not the same
+relation_label_mismatch,142,4B7B-Soft X-ray Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s)>1×1010 @ Fe L-edge,rel_type withrel_name Not the same
+relation_label_mismatch,143,4B7B-Soft X-ray Experiment Station,Spot size at sample,Spot parameters,"Spot size at sample: 1×0.5 mm2 (focus), up to 10×5 mm2 (defocus)",rel_type withrel_name Not the same
+relation_label_mismatch,150,4B9A-Diffraction Station,energy range,Spot parameters,Energy range: 5-13 keV,rel_type withrel_name Not the same
+relation_label_mismatch,151,4B9A-Diffraction Station,energy resolution,Spot parameters,Energy resolution (△E/E): 3×10-4,rel_type withrel_name Not the same
+relation_label_mismatch,152,4B9A-Diffraction Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 1×1010 @ 8 keV,rel_type withrel_name Not the same
+relation_label_mismatch,153,4B9A-Diffraction Station,Spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,rel_type withrel_name Not the same
+relation_label_mismatch,154,4B9A-Diffraction Station,Angular resolution,Spot parameters,Angular resolution: 0.9 arc seconds,rel_type withrel_name Not the same
+relation_label_mismatch,160,4B9B-Photoelectron Spectroscopy Experiment Station,Wavelength range,Spot parameters,Wavelength range: 130-360 nm,rel_type withrel_name Not the same
+relation_label_mismatch,161,4B9B-Photoelectron Spectroscopy Experiment Station,Photon flux at sample,Spot parameters,Photon flux at sample (phs/s): 2×109 @ 180 nm,rel_type withrel_name Not the same
+relation_label_mismatch,162,4B9B-Photoelectron Spectroscopy Experiment Station,Spot size at sample,Spot parameters,Spot size at sample: 2(H)×1(V) mm2,rel_type withrel_name Not the same
+relation_label_mismatch,179,Biomacromolecule microcrystalline diffraction line station,energy range,Spot parameters,5–18 keV,rel_type withrel_name Not the same
+relation_label_mismatch,180,Biomacromolecule microcrystalline diffraction line station,energy resolution,Spot parameters,(ΔE/E)~2E-4,rel_type withrel_name Not the same
+relation_label_mismatch,181,Biomacromolecule microcrystalline diffraction line station,Minimum spot size,Spot parameters,(H×V)1 µm × 1 µm,rel_type withrel_name Not the same
+relation_label_mismatch,182,Biomacromolecule microcrystalline diffraction line station,Maximum spot size,Spot parameters,(H×V)18 µm × 28 µm,rel_type withrel_name Not the same
+relation_label_mismatch,183,Biomacromolecule microcrystalline diffraction line station,Luminous flux,Spot parameters,1E13 phs/s,rel_type withrel_name Not the same
+relation_label_mismatch,184,Engineering Materials Line Station,Materials Engineering Experiment Shed – Energy Range,Spot parameters,50–170 keV,rel_type withrel_name Not the same
+relation_label_mismatch,185,Engineering Materials Line Station,Materials Engineering Experiment Shed - Energy Resolution,Spot parameters,10^{-3},rel_type withrel_name Not the same
+relation_label_mismatch,186,Engineering Materials Line Station,Materials engineering experimental shed-spot size at sample,Spot parameters,"~1 mm × 1 mm (maximum), 5 μm × 5 μm (minimum)",rel_type withrel_name Not the same
+relation_label_mismatch,187,Engineering Materials Line Station,Materials Engineering Experiment Shed-Light Flux at Sample,Spot parameters,"2×10^{12} phs/s (@100 keV, 200 mA, unfocused)",rel_type withrel_name Not the same
+relation_label_mismatch,188,Engineering Materials Line Station,Materials Engineering Experiment Shed-Sample Bench Load,Spot parameters,">200 kg (comprehensive), >1.5 t (heavy load)",rel_type withrel_name Not the same
+relation_label_mismatch,189,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Single crystal diffraction,rel_type withrel_name Not the same
+relation_label_mismatch,190,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,powder diffraction,rel_type withrel_name Not the same
+relation_label_mismatch,191,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,depth resolved diffraction,rel_type withrel_name Not the same
+relation_label_mismatch,192,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,time resolved diffraction,rel_type withrel_name Not the same
+relation_label_mismatch,193,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,XRD-CT,rel_type withrel_name Not the same
+relation_label_mismatch,194,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Full field/scan+absorption/phase contrast+projection imaging/CT,rel_type withrel_name Not the same
+relation_label_mismatch,195,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,Grain-Resolved Diffraction Contrast Imaging,rel_type withrel_name Not the same
+relation_label_mismatch,196,Engineering Materials Line Station,Materials Engineering Experiment Shed-Experimental Technology,experimental techniques,PDF,rel_type withrel_name Not the same
+relation_label_mismatch,199,Engineering Materials Line Station,Materials chemistry experimental shed-spot size at sample,Spot parameters,~0.7 mm × 0.7 mm,rel_type withrel_name Not the same
+relation_label_mismatch,201,Engineering Materials Line Station,Materials Chemistry Experiment Shed-Sample Stage Load,Spot parameters,>200 kg,rel_type withrel_name Not the same
+relation_label_mismatch,202,Engineering Materials Line Station,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,SAXS,rel_type withrel_name Not the same
+relation_label_mismatch,203,Engineering Materials Line Station,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,WAXS,rel_type withrel_name Not the same
+relation_label_mismatch,204,Engineering Materials Line Station,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,SAXS+WAXS,rel_type withrel_name Not the same
+relation_label_mismatch,205,Engineering Materials Line Station,Materials Chemistry Experiment Shed-Experimental Technology,experimental techniques,Time-resolved SAXS,rel_type withrel_name Not the same
+relation_label_mismatch,210,Pink light small angle scattering ray station,energy range,Spot parameters,8–12 keV,rel_type withrel_name Not the same
+relation_label_mismatch,211,Pink light small angle scattering ray station,energy resolution,Spot parameters,1%,rel_type withrel_name Not the same
+relation_label_mismatch,212,Pink light small angle scattering ray station,Minimum spot,Spot parameters,100 µm × 100 µm,rel_type withrel_name Not the same
+relation_label_mismatch,213,Pink light small angle scattering ray station,Maximum spot,Spot parameters,500 µm × 500 µm,rel_type withrel_name Not the same
+relation_label_mismatch,214,Pink light small angle scattering ray station,Luminous flux,Spot parameters,5E14,rel_type withrel_name Not the same
+relation_label_mismatch,234,Hard X-ray coherent scattering station,energy range,Spot parameters,7–25 keV,rel_type withrel_name Not the same
+relation_label_mismatch,235,Hard X-ray coherent scattering station,energy resolution,Spot parameters,10^{-4},rel_type withrel_name Not the same
+relation_label_mismatch,236,Hard X-ray coherent scattering station,coherent flux,Spot parameters,Greater than 10^{12} ph/s; adjustable coherence (coherence component 0.5–0.95),rel_type withrel_name Not the same
+relation_label_mismatch,237,Hard X-ray coherent scattering station,Spot size-Ptychography,Spot parameters,Spot size 100 nm–5 μm;,rel_type withrel_name Not the same
+relation_label_mismatch,238,Hard X-ray coherent scattering station,Resolution-Ptychography,Spot parameters,Resolution 1–50 nm;,rel_type withrel_name Not the same
+relation_label_mismatch,239,Hard X-ray coherent scattering station,Field of View-Ptychography,Spot parameters,Field of view 1–100 μm.,rel_type withrel_name Not the same
+relation_label_mismatch,240,Hard X-ray coherent scattering station,Spot size-SAXS CDI,Spot parameters,Spot size 2–20 μm;,rel_type withrel_name Not the same
+relation_label_mismatch,241,Hard X-ray coherent scattering station,Resolution-SAXS CDI,Spot parameters,Resolution 1–10 nm;,rel_type withrel_name Not the same
+relation_label_mismatch,242,Hard X-ray coherent scattering station,Field of View-SAXS CDI,Spot parameters,Field of view 1–10 μm.,rel_type withrel_name Not the same
+relation_label_mismatch,243,Hard X-ray coherent scattering station,Spot size-BCDI,Spot parameters,Spot size 100–500 nm;,rel_type withrel_name Not the same
+relation_label_mismatch,245,Hard X-ray coherent scattering station,Field of View-BCDI,Spot parameters,Field of view 50–500 nn.,rel_type withrel_name Not the same
+relation_label_mismatch,246,Hard X-ray coherent scattering station,Spot size-SAXS XPCS,Spot parameters,Spot size 10–20 μm;,rel_type withrel_name Not the same
+relation_label_mismatch,247,Hard X-ray coherent scattering station,Spatial scale-SAXS XPCS,Spot parameters,Spatial scale 1–200 nm;,rel_type withrel_name Not the same
+relation_label_mismatch,248,Hard X-ray coherent scattering station,Timescale - SAXS XPCS,Spot parameters,Time scale 1000 s–1 μs.,rel_type withrel_name Not the same
+relation_label_mismatch,249,Hard X-ray coherent scattering station,Spot size-WAXS XPCS,Spot parameters,Spot size 100 nm–2 μm;,rel_type withrel_name Not the same
+relation_label_mismatch,250,Hard X-ray coherent scattering station,Spatial scale-WAXS XPCS,Spot parameters,Spatial scale 0.1–1 nm;,rel_type withrel_name Not the same
+relation_label_mismatch,258,Hard X-ray Nanoprobe Line Station,energy range,Spot parameters,5–30 keV,rel_type withrel_name Not the same
+relation_label_mismatch,259,Hard X-ray Nanoprobe Line Station,energy resolution,Spot parameters,10^{-4}~10^{-5},rel_type withrel_name Not the same
+relation_label_mismatch,260,Hard X-ray Nanoprobe Line Station,Minimum focus spot - high resolution mode,Spot parameters,<10 nm,rel_type withrel_name Not the same
+relation_label_mismatch,261,Hard X-ray Nanoprobe Line Station,Minimum focus spot-in-situ mode,Spot parameters,<50 nm,rel_type withrel_name Not the same
+relation_label_mismatch,262,Hard X-ray Nanoprobe Line Station,Luminous Flux-High Resolution Mode,Spot parameters,10^{9}~10^{10} phs/s @10 keV,rel_type withrel_name Not the same
+relation_label_mismatch,263,Hard X-ray Nanoprobe Line Station,Luminous flux-in-situ mode,Spot parameters,10^{10}~10^{11} phs/s @10 keV,rel_type withrel_name Not the same
+relation_label_mismatch,264,Hard X-ray Nanoprobe Line Station,Focused spot working distance-high resolution mode,Spot parameters,1–2 mm,rel_type withrel_name Not the same
+relation_label_mismatch,265,Hard X-ray Nanoprobe Line Station,Focused spot working distance-in-situ mode,Spot parameters,40–50 mm,rel_type withrel_name Not the same
+relation_label_mismatch,266,Hard X-ray Nanoprobe Line Station,Sample size,Spot parameters,Sub-micron to millimeter scale (sub-μm ~ mm),rel_type withrel_name Not the same
+relation_label_mismatch,267,Hard X-ray Nanoprobe Line Station,Imaging resolution,Spot parameters,"Sample information (structure, elements, valence state, etc.) imaging resolution is approximately nanometer scale",rel_type withrel_name Not the same
+relation_label_mismatch,273,Structural Dynamics Line Station,Optical mode - white light mode,Spot parameters,Spot size 1 mm–14 mm; single pulse intensity >10^{9} phs/pulse; luminous flux >10^{16} phs/s.,rel_type withrel_name Not the same
+relation_label_mismatch,274,Structural Dynamics Line Station,Optical mode - Micron mode,Spot parameters,Spot size 5 μm–500 μm; luminous flux >10^{15} phs/s; photon energy 20–70 keV; energy resolution 0.5%–2.8%.,rel_type withrel_name Not the same
+relation_label_mismatch,275,Structural Dynamics Line Station,Optical Mode-Nano Mode,Spot parameters,Spot size <50 nm; luminous flux >10^{14} phs/s; photon energy 21.8 keV; energy resolution 1.2%.,rel_type withrel_name Not the same
+relation_label_mismatch,276,X-ray microscopy imaging line station,Imaging highest spatial resolution,Spot parameters,20 nm,rel_type withrel_name Not the same
+relation_label_mismatch,277,X-ray microscopy imaging line station,energy range,Spot parameters,5–15 keV,rel_type withrel_name Not the same
+relation_label_mismatch,278,X-ray microscopy imaging line station,Photon flux at sample,Spot parameters,~1E11 phs/s,rel_type withrel_name Not the same
+relation_label_mismatch,279,X-ray microscopy imaging line station,Energy resolution (ΔE/E),Spot parameters,≈1E-4,rel_type withrel_name Not the same
+relation_label_mismatch,291,High voltage line station,light source,Spot parameters,undulator IVU19.9,rel_type withrel_name Not the same
+relation_label_mismatch,292,High voltage line station,total length,Spot parameters,4.0 m,rel_type withrel_name Not the same
+relation_label_mismatch,293,High voltage line station,cycle length,Spot parameters,19.9 mm,rel_type withrel_name Not the same
+relation_label_mismatch,294,High voltage line station,FWHM opening angle @Kmax,Spot parameters,0.26 (H) × 0.11 (V) mrad^2,rel_type withrel_name Not the same
+relation_label_mismatch,295,High voltage line station,Fundamental light source FWHM size @Kmax,Spot parameters,21.9 (H) × 9.0 (V) μm^2,rel_type withrel_name Not the same
+relation_label_mismatch,296,High voltage line station,Fundamental light source FWHM divergence angle @Kmax,Spot parameters,13.6 (H) × 11.8 (V) μrad^2,rel_type withrel_name Not the same
+relation_label_mismatch,297,High voltage line station,Photon brightness@30 keV,Spot parameters,1.7 × 10^{22} phs/s/mm^2/mrad^2/0.1%B.W.,rel_type withrel_name Not the same
+relation_label_mismatch,298,High voltage line station,Photon flux@30 keV,Spot parameters,3.8 × 10^{14} phs/s/0.1%B.W. @16 μrad × 16 μrad,rel_type withrel_name Not the same
+relation_label_mismatch,299,High resolution spectroscopy line station,Energy range keV,Spot parameters,7–26 keV,rel_type withrel_name Not the same
+relation_label_mismatch,300,High resolution spectroscopy line station,Energy Resolution-NRS,Spot parameters,1 meV @14.4 keV,rel_type withrel_name Not the same
+relation_label_mismatch,301,High resolution spectroscopy line station,Energy Resolution-XRS,Spot parameters,0.7 eV @9.7 keV,rel_type withrel_name Not the same
+relation_label_mismatch,302,High resolution spectroscopy line station,Energy Resolution-RIXS,Spot parameters,100 meV @8.9 keV,rel_type withrel_name Not the same
+relation_label_mismatch,303,High resolution spectroscopy line station,Focused spot size is smallest,Spot parameters,2 µm × 2 µm,rel_type withrel_name Not the same
+relation_label_mismatch,304,High resolution spectroscopy line station,Luminous flux at sample-NRS,Spot parameters,~1.5×10^{10} phs/s/meV @14.4 keV,rel_type withrel_name Not the same
+relation_label_mismatch,305,High resolution spectroscopy line station,Light flux at sample-XRS,Spot parameters,~3×10^{13} phs/s @9.7 keV,rel_type withrel_name Not the same
+relation_label_mismatch,306,High resolution spectroscopy line station,Luminous flux at sample-RIXS,Spot parameters,~5×10^{12} phs/s @8.9 keV,rel_type withrel_name Not the same
+relation_label_mismatch,309,X-ray absorption spectroscopy line station,energy range,Spot parameters,4.8–45 keV,rel_type withrel_name Not the same
+relation_label_mismatch,310,X-ray absorption spectroscopy line station,energy resolution,Spot parameters,2×10^{-4}(Si(111)); 4×10^{-5}(Si(311)),rel_type withrel_name Not the same
+relation_label_mismatch,311,X-ray absorption spectroscopy line station,Spot size,Spot parameters,~2 mm × 2 mm; ≤0.35 μm × 0.35 μm (focus mode),rel_type withrel_name Not the same
+relation_label_mismatch,312,X-ray absorption spectroscopy line station,Luminous flux,Spot parameters,2×10^{13} ph/s @10 keV; 5×10^{12} ph/s @10 keV (focus mode),rel_type withrel_name Not the same
+relation_label_mismatch,313,Universal Environmental Spectroscopy Line Station,energy range,Spot parameters,2.1–10 keV,rel_type withrel_name Not the same
+relation_label_mismatch,314,Universal Environmental Spectroscopy Line Station,energy resolution,Spot parameters,~2E-4,rel_type withrel_name Not the same
+relation_label_mismatch,315,Universal Environmental Spectroscopy Line Station,Minimum spot size,Spot parameters,20 µm × 20 µm,rel_type withrel_name Not the same
+relation_label_mismatch,316,Universal Environmental Spectroscopy Line Station,Maximum spot size,Spot parameters,15000 µm × 1500 µm,rel_type withrel_name Not the same
+relation_label_mismatch,317,Universal Environmental Spectroscopy Line Station,Luminous flux,Spot parameters,1E10 ~ 1E12 phs/s,rel_type withrel_name Not the same
+relation_label_mismatch,322,HEPS,Storage ring energy,HEPS electronic energy,6GeV,rel_type withrel_name Not the same
+relation_label_mismatch,323,HEPS,brightness,HEPS brightness,1 × 10^22 phs/s/mm2/mrad2/0.1%BW,rel_type withrel_name Not the same
+relation_label_mismatch,324,Phase I,construction,HEPS construction,Biomacromolecule microcrystalline diffraction line station,rel_type withrel_name Not the same
+relation_label_mismatch,325,Phase I,construction,HEPS construction,Low dimensional structure probe line station,rel_type withrel_name Not the same
+relation_label_mismatch,326,Phase I,construction,HEPS construction,Engineering Materials Line Station,rel_type withrel_name Not the same
+relation_label_mismatch,327,Phase I,construction,HEPS construction,Pink light small angle scattering ray station,rel_type withrel_name Not the same
+relation_label_mismatch,328,Phase I,construction,HEPS construction,Hard X-ray coherent scattering station,rel_type withrel_name Not the same
+relation_label_mismatch,329,Phase I,construction,HEPS construction,Hard X-ray Nanoprobe Line Station,rel_type withrel_name Not the same
+relation_label_mismatch,330,Phase I,construction,HEPS construction,Hard X-ray Imaging Line Station,rel_type withrel_name Not the same
+relation_label_mismatch,331,Phase I,construction,HEPS construction,Structural Dynamics Line Station,rel_type withrel_name Not the same
+relation_label_mismatch,332,Phase I,construction,HEPS construction,X-ray microscopy imaging line station,rel_type withrel_name Not the same
+relation_label_mismatch,333,Phase I,construction,HEPS construction,High voltage line station,rel_type withrel_name Not the same
+relation_label_mismatch,334,Phase I,construction,HEPS construction,High resolution spectroscopy line station,rel_type withrel_name Not the same
+relation_label_mismatch,335,Phase I,construction,HEPS construction,High-resolution nanoelectronic structure line station,rel_type withrel_name Not the same
+relation_label_mismatch,336,Phase I,construction,HEPS construction,Optical test line station,rel_type withrel_name Not the same
+relation_label_mismatch,337,Phase I,construction,HEPS construction,Universal Environmental Spectroscopy Line Station,rel_type withrel_name Not the same
+relation_label_mismatch,338,Phase I,construction,HEPS construction,X-ray absorption spectroscopy line station,rel_type withrel_name Not the same
+relation_label_mismatch,339,Phase I,Line station status,HEPS construction,Open in the first round,rel_type withrel_name Not the same
+relation_label_mismatch,340,Phase I,Line station status,HEPS construction,Not open yet,rel_type withrel_name Not the same
+relation_label_mismatch,355,HEPS,Application for trial subject,HEPS trial subject application,"#HEPS Pilot Proposal Application Instructions 1. HEPS user service system website address: https://user.heps.ihep.ac.cn/. If you have any comments or suggestions for improving the Pilot Proposal application, please send feedback to the HEPS User Office email (heps-user@ihep.ac.cn). 2. System registration: (1) Users who already have an account on the Chinese Academy of Sciences' Major Science and Technology Infrastructure Shared Service Platform (hereinafter referred to as the Academy Platform) (https://lssf.cas.cn/) can directly log in to the HEPS user service system. The login account is the email address registered when registering the Academy Platform (please note that it is not the login account of the Academy Platform), and the password is the platform password of the same Academy. (2) For users who do not have a hospital platform account, please click ""Create a new account?"" on the home page of the HEPS user service system to register. After registration, re-visit the HEPS user service system to log in. Login account: the email address registered during registration. Password: the password set during registration. 3. Topic application: (1) Applicants must be employed and can submit a project application only after contacting the pilot proposal contact person at the corresponding line station. (2) After entering the HEPS user service system, click ""Pilot Proposal"" on the left side of the page to start filling in the application. (3) There are 7 steps in the project application. Please fill in and submit according to the requirements. Application steps: The application form is divided into 7 steps (project type, user commitment, basic information, project members, project details, sample safety, auxiliary materials), which can be switched through the digital steps above or the ""Previous"" and ""Next"" interface. Operating functions: The final PDF document can be viewed through the ""Preview"" button; If you haven't completed it, you can temporarily save it through the ""Save"" button, and you can find it in ""My Topics"" later; After filling in, click ""Submit"". It cannot be modified after submission. Trial topic description: The pilot project (PILOT proposal) is the type of project that is open for experimentation during line station commissioning. 6 line stations are open in the first round (a total of 14 line stations in the first phase of HEPS); The first round of applications is due until December 31, 2025. Late applications must be submitted after the validity period of the line station opens. Application requirements: Applicants need to communicate with line station personnel, select the corresponding line station personnel in the ""Project Details"" link and explain the communication situation; Topic applications must first be reviewed online. First round of open line stations: BM44 Universal Environmental Spectroscopy Line Station ID30 X-ray Imaging Line Station ID08 Powder Small Angle Scattered Ray Station ID02 biological macromolecule diffraction line station ID05 low-dimensional structure probe line station ID31 high voltage line station (4) After the project review and approval is completed, the HEPS user service system will send an email to notify you of the review results. 4. Machine schedule: For approved trial proposals (Pilot Proposal), line station staff will arrange the time according to the specific conditions of the line station, please wait patiently for notification. 5. Application for visit: (1) After the flight schedule is confirmed, the HEPS user service system will send an email notification to remind you to fill in the visit application. (2) When selecting the corresponding experimental machine in the ""Visit Application"" module of the HEPS user service system, fill in and submit the visit information of all personnel who plan to conduct experiments on site. Requirements for visitors to fill in: - Have a registered account on the hospital platform and fill in the ID number; - Passed the ""HEPS User Security Training Examination"" in the HEPS User Service System. (3) After the visit is approved, all visitors will receive an email from the system regarding the experimental account, password, BeamtimeID, etc. (4) It is recommended to fill in the visit application at least 3 days in advance to facilitate: 1. Arranging dose cards and access cards; 2. All visitors will receive notifications about the experimental account, password and BeamtimeID, and have permission to download experimental data after the experiment is completed. 6. User accommodation: If users have accommodation needs, please contact the front desk of HEPS Guest House in advance (tel: 01069680831, 18001162658). 7. User on-site experiments: 1. Dosage Card and Access Card: After users arrive at HEPS, they contact line station personnel to receive dosage cards, access cards and register. 2. Conduct experiments: Users conduct experiments based on the experimental account, password and BeamtimeID in the visit notification email. 8. After the experiment: 1. Users fill in the experiment registration form (form provided on site) and provide feedback or suggestions on the online site trial; 2. The user returns the dose card and access card before leaving HEPS (if any is lost or damaged, compensation must be paid); 3. You can click the ""Data Service"" menu bar in the HEPS user service system to jump to the HEPS user data service system or directly access the HEPS user data service system through the following URL (https://data.heps.ihep.ac.cn/) to download experimental data (download account: the experimental account and password in the visit notification email or the registered email address and password of the experimenter on the hospital platform). 9. Contact information: 1. User Office: Yu Meijuan, 15311488165, yumj@ihep.ac.cn 2. Experimental data management: Guo Yilei, ylguo@ihep.ac.cn, 18614046290; Hu Peng, hup@ihep.ac.cn, 15600290501 3. HEPS Guest House Front Desk: 010-69680831, 18001162658",rel_type withrel_name Not the same
+entity_type_conflict,,"1B3-Lithography, LIGA experimental station",,,,"1B3-Lithography, LIGA experimental station;Beam line"
+entity_type_conflict,,1W1A-Diffuse Scattering Experiment Station,,,,1W1A Experimental Station;Beam line
+entity_type_conflict,,1W1B-XAFS Experiment Station,,,,1W1B experimental station;Beam line
+entity_type_conflict,,1W2A-Small angle scattering experimental station,,,,1W2A Experimental Station;Beam line
+entity_type_conflict,,1W2B-Comprehensive Experiment Station,,,,1W2B experimental station;Beam line
+entity_type_conflict,,3W1-High Energy Experiment Station,,,,3W1 Experimental Station;Beam line
+entity_type_conflict,,4B7A-Zhongneng Experimental Station,,,,4B7A Experiment Station;Beam line
+entity_type_conflict,,4B7B-Soft X-ray Experiment Station,,,,4B7B Experiment Station;Beam line
+entity_type_conflict,,4B8-Vacuum UV Experiment Station,,,,4B8-Experiment Station;Beam line
+entity_type_conflict,,4B9A-Diffraction Station,,,,4B9A Experiment Station;Beam line
+entity_type_conflict,,4B9B-Photoelectron Spectroscopy Experiment Station,,,,4B9B Experiment Station;Beam line
+entity_type_conflict,,4W1A-X-ray imaging station,,,,4W1A Experimental Station;Beam line
+entity_type_conflict,,4W1B-X-ray fluorescence microanalysis experimental station,,,,4W1B Experimental Station;Beam line
+entity_type_conflict,,4W2-High voltage experimental station,,,,4W2 Experimental Station;Beam line
+entity_type_conflict,,Biomacromolecule microcrystalline diffraction line station,,,,Beam line;HEPS first phase;ID02
+entity_type_conflict,,Engineering Materials Line Station,,,,Beam line;HEPS first phase;ID07
+entity_type_conflict,,Hard X-ray Imaging Line Station,,,,Beam line;HEPS first phase
+entity_type_conflict,,Hard X-ray Nanoprobe Line Station,,,,Beam line;HEPS first phase;ID19
+entity_type_conflict,,Hard X-ray coherent scattering station,,,,Beam line;HEPS first phase;ID09
+entity_type_conflict,,High resolution spectroscopy line station,,,,Beam line;HEPS first phase;ID33
+entity_type_conflict,,High voltage line station,,,,Beam line;HEPS first phase;ID31
+entity_type_conflict,,High-resolution nanoelectronic structure line station,,,,Beam line;HEPS first phase
+entity_type_conflict,,Low dimensional structure probe line station,,,,Beam line;HEPS first phase;ID05
+entity_type_conflict,,Optical test line station,,,,Beam line;HEPS first phase
+entity_type_conflict,,PDF,,,,Spot parameters;experimental techniques
+entity_type_conflict,,Pink light small angle scattering ray station,,,,Beam line;HEPS first phase;ID08
+entity_type_conflict,,Structural Dynamics Line Station,,,,Beam line;HEPS first phase;ID23
+entity_type_conflict,,Universal Environmental Spectroscopy Line Station,,,,BM44;Beam line;HEPS first phase
+entity_type_conflict,,X-ray absorption spectroscopy line station,,,,Beam line;HEPS first phase;ID46
+entity_type_conflict,,X-ray microscopy imaging line station,,,,Beam line;HEPS first phase;ID30
+entity_type_conflict,,time resolved diffraction,,,,experimental techniques;sample environment
