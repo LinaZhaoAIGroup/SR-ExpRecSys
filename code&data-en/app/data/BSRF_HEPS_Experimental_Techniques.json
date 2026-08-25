@@ -1,0 +1,1769 @@
+{
+  "triples": [
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "1W1A-Diffuse Scattering Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "1W1B-XAFS Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "1W2A-Small angle scattering experimental station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "1W2B-Comprehensive Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "3W1-High Energy Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "1B3-Lithography, LIGA experimental station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4W1A-X-ray imaging station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4W1B-X-ray fluorescence microanalysis experimental station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4W2-High voltage experimental station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4B8-Vacuum UV Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4B7A-Zhongneng Experimental Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4B7B-Soft X-ray Experiment Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4B9A-Diffraction Station"
+    },
+    {
+      "head": "BSRF",
+      "relation": "Beam line",
+      "tail": "4B9B-Photoelectron Spectroscopy Experiment Station"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "Research areas",
+      "tail": "Crystalline material thin films, multilayer film nanomaterials"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray coplanar diffraction"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray coplanar scattering"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray grazing incidence diffraction"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray grazing incidence scattering"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray reflectivity (XRR)"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "non-specular scattering"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Grazing incidence small angle X-ray scattering (GiSAXS)"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "energy range",
+      "tail": "8.05 keV (not adjustable)"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)<4.4×10-4 @ 8.05 keV"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s) >1×1011 @ 8.05 keV"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 1(H)×0.4(V) mm2"
+    },
+    {
+      "head": "1W1A-Diffuse Scattering Experiment Station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "Research areas",
+      "tail": "Materials science, nanoscience, biomedicine, environmental science, chemistry and chemical engineering, energy catalysis, humanities and archaeology"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Transmission XAFS"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Fluorescence XAFS"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "energy range",
+      "tail": "Energy range: 4-23 keV,,"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)<1-3×10-4 @ 9 keV"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at the sample (phs/s) >4×1011 @ 9 keV, 2.5 GeV, 200 mA,"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 0.9(H)×0.3(V)mm2"
+    },
+    {
+      "head": "1W1B-XAFS Experiment Station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Research areas",
+      "tail": "Nanomaterials, mesoporous materials, biological macromolecules, polymers, etc."
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "experimental techniques",
+      "tail": "Transmission small angle X-ray scattering (SAXS)"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "experimental techniques",
+      "tail": "Wide-angle X-ray scattering (WAXS)"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "experimental techniques",
+      "tail": "SAXS - WAXS simultaneous measurement"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "experimental techniques",
+      "tail": "Grazing incidence small angle X-ray scattering (GiSAXS)"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Small angle scattering resolution",
+      "tail": "Small angle scattering resolution: 200 nm"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Angular resolution",
+      "tail": "Angular resolution: 0.5 mrad"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Incident X-ray wavelength",
+      "tail": "Incident X-ray wavelength 1.54 Å"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)~1×10-3"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s) ≥1×1011"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Sample to detector distance",
+      "tail": "Distance from sample to detector: 0.5~5.0 m, adjustable in stages"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Spot size on detector",
+      "tail": "Spot size on the detector: 1.4 × 0.2 mm2"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Beam divergence",
+      "tail": "Beam divergence ≤0.6 mrad"
+    },
+    {
+      "head": "1W2A-Small angle scattering experimental station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "Research areas",
+      "tail": "Development of multi-method experimental techniques, conventional absorption spectroscopy, and methodological research based on high-performance detectors"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray absorption fine structure (XAFS)"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Laser pump-X-ray probe time-resolved experiment"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "XAFS/XRD combined experiment"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "SAXS/WAXS/XAFS combined experiment"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "energy range",
+      "tail": "Energy range: 5-18 keV"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E) is better than 4×10-4"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 1012"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 1(H)×0.6(V) mm2"
+    },
+    {
+      "head": "1W2B-Comprehensive Experiment Station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "Research areas",
+      "tail": "High energy X-ray equipment and technology validation"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Imaging (white light & monochromatic light)"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "High energy dynamic diffraction PDF"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "energy range",
+      "tail": "Energy range: 40-80 keV white light"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)~0.16% @ 50 keV"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 6.54×1010 @ 50 keV 2.56×1013 @ white light"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 3×3 mm2 @ 50 keV 9.37×2.47 mm2 @ white light"
+    },
+    {
+      "head": "3W1-High Energy Experiment Station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "Research content",
+      "tail": "Development of X-ray optical components, such as gratings, refractive lenses, etc."
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "experimental techniques",
+      "tail": "nanolithography"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "experimental techniques",
+      "tail": "Depth X-ray Lithography"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "light type",
+      "tail": "The sample is white light"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "Spot size at sample",
+      "tail": "Light spot horizontal width 55mm"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "Light source energy",
+      "tail": "The sample stage is scanned and exposed in the vertical direction. Among them, the energy of nanolithography light source is 1-3 keV"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "energy range",
+      "tail": "X-ray depth lithography light source energy is 3-12 keV"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "Photon flux at sample",
+      "tail": "Luminous flux is greater than 1015phs/s"
+    },
+    {
+      "head": "1B3-Lithography, LIGA experimental station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Research content",
+      "tail": "Crystal materials, biomedical materials, composite materials, energy materials, etc."
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "experimental techniques",
+      "tail": "Crystal morphology"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "experimental techniques",
+      "tail": "Micron phase contrast imaging"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "experimental techniques",
+      "tail": "Nano full field imaging"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "energy range",
+      "tail": "Micron imaging: Energy range: 6 - 26 keV"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s)~1012 @ 8 keV"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "spatial resolution",
+      "tail": "When the spatial resolution is ~10 μm, ~5 μm, ~1 μm"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Spot size",
+      "tail": "The spot size (H×V) is 20 mm×10 mm, 10 mm×5 mm, 2 mm×1 mm respectively."
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "energy range",
+      "tail": "Nanoimaging: Energy range: 6-10 keV"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Photon flux at sample",
+      "tail": "Nanoimaging: Photon flux at sample (phs/s) ~ 108 @ 8 keV"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "spatial resolution",
+      "tail": "Nanoimaging: when spatial resolution is 30 nm, 50 nm, 100 nm"
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Spot size",
+      "tail": "Nanoimaging: Spot sizes (H×V) are 10 μm×10 μm, 15 μm×15 μm, and 65 μm×65 μm respectively."
+    },
+    {
+      "head": "4W1A-X-ray imaging station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "Research areas",
+      "tail": "Physics, catalysis, biomedicine, environmental science, materials science, humanistic archeology, legal appraisal"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "experimental techniques",
+      "tail": "X-ray fluorescence spectrometry (XRF)"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "experimental techniques",
+      "tail": "Micro-XRF"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "experimental techniques",
+      "tail": "XES (emission spectrum)"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "experimental mode",
+      "tail": "Experimental mode: pink light focus mode"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "energy range",
+      "tail": "Energy range: 5-18 keV"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)<5.5×10-4"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): >1×1010 @ 15 keV"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 50(H)×50(V) μm2"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "XRF detection limit",
+      "tail": "XRF detection limit: 1 ppm"
+    },
+    {
+      "head": "4W1B-X-ray fluorescence microanalysis experimental station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "Research content",
+      "tail": "Research on physical properties under high temperature/low temperature and high pressure"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "experimental techniques",
+      "tail": "High pressure powder XRD"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "experimental techniques",
+      "tail": "High-voltage single crystal XRD"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "experimental techniques",
+      "tail": "High pressure radial XRD"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "energy range",
+      "tail": "Energy range: 10-25 keV (monochromatic light)"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E): 7×10-4 @ 20 keV"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 1.2×109 @ 20 keV"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 33×12 μm2"
+    },
+    {
+      "head": "4W2-High voltage experimental station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "Research areas",
+      "tail": "Luminescent materials such as phosphors and scintillator"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Fluorescence spectrum"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "absorption spectrum"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Isovacuum UV spectroscopy"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "Wavelength range",
+      "tail": "Wavelength range: 130-360 nm"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 2×109 @ 180 nm"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "Spot parameters: spot size at sample",
+      "tail": "Spot size at sample: 2(H)×1(V) mm2"
+    },
+    {
+      "head": "4B8-Vacuum UV Experiment Station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "Research areas",
+      "tail": "Energy environment, materials, chemistry, biological science and other fields"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "Research content",
+      "tail": "Detector calibration, optical component characterization, X-ray radiation measurement standards"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray absorption spectroscopy (XAS)"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray optical metrology standard determination"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray detector standard transfer and calibration"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "Transmittance of optical components"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "Reflectance Diffraction Efficiency Calibration"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "experimental techniques",
+      "tail": "Diffraction efficiency calibration"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "energy range",
+      "tail": "Energy range: Si(111): 2100-5700 eV InSb(111): 1750-3400 eV"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E)~7000"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): ~1x1011 @ S K-edge"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 5×3 mm2"
+    },
+    {
+      "head": "4B7A-Zhongneng Experimental Station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "Research areas",
+      "tail": "Energy environment, materials, chemistry and other scientific fields"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "Research content",
+      "tail": "Detector calibration, optical component characterization, X-ray metrology standards"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Near-edge X-ray absorption spectroscopy (XANES)"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray optical metrology standard determination"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray detector standard transfer and calibration"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Transmittance calibration of optical components"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Reflectivity Calibration of Optical Components"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "energy range",
+      "tail": "Energy range: 50-1700 eV"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E) ~ 1000"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s)>1×1010 @ Fe L-edge"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 1×0.5 mm2 (focus), up to 10×5 mm2 (defocus)"
+    },
+    {
+      "head": "4B7B-Soft X-ray Experiment Station",
+      "relation": "Line station status",
+      "tail": "normal operation"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "Research content",
+      "tail": "Materials science, nanoscience, catalytic energy, bioscience"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray absorption fine structure (XAFS)"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray diffraction (XRD)"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray reflectivity (XRR)"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "experimental techniques",
+      "tail": "Diffraction Anomaly Fine Structure (DAFS)"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "energy range",
+      "tail": "Energy range: 5-13 keV"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "energy resolution",
+      "tail": "Energy resolution (△E/E): 3×10-4"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 1×1010 @ 8 keV"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 2(H)×1(V) mm2"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "Angular resolution",
+      "tail": "Angular resolution: 0.9 arc seconds"
+    },
+    {
+      "head": "4B9A-Diffraction Station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "Research areas",
+      "tail": "Materials science, catalytic energy, electronic structure research"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Synchrotron radiation photoelectron spectroscopy (SRPES)"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Angle resolved photoelectron spectroscopy (ARPES)"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "experimental techniques",
+      "tail": "Soft X-ray Absorption Spectroscopy (NEXAFS)"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "Wavelength range",
+      "tail": "Wavelength range: 130-360 nm"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "Photon flux at sample",
+      "tail": "Photon flux at sample (phs/s): 2×109 @ 180 nm"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "Spot size at sample",
+      "tail": "Spot size at sample: 2(H)×1(V) mm2"
+    },
+    {
+      "head": "4B9B-Photoelectron Spectroscopy Experiment Station",
+      "relation": "Line station status",
+      "tail": "Stop running"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Biomacromolecule microcrystalline diffraction line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Low dimensional structure probe line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Engineering Materials Line Station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Pink light small angle scattering ray station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Hard X-ray coherent scattering station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Hard X-ray Nanoprobe Line Station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Hard X-ray Imaging Line Station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Structural Dynamics Line Station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "X-ray microscopy imaging line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "High voltage line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "High resolution spectroscopy line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "High-resolution nanoelectronic structure line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Optical test line station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "Universal Environmental Spectroscopy Line Station"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Beam line",
+      "tail": "X-ray absorption spectroscopy line station"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "energy range",
+      "tail": "5–18 keV"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "energy resolution",
+      "tail": "(ΔE/E)~2E-4"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "Minimum spot size",
+      "tail": "(H×V)1 µm × 1 µm"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "Maximum spot size",
+      "tail": "(H×V)18 µm × 28 µm"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "Luminous flux",
+      "tail": "1E13 phs/s"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed – Energy Range",
+      "tail": "50–170 keV"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed - Energy Resolution",
+      "tail": "10^{-3}"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials engineering experimental shed-spot size at sample",
+      "tail": "~1 mm × 1 mm (maximum), 5 μm × 5 μm (minimum)"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Light Flux at Sample",
+      "tail": "2×10^{12} phs/s (@100 keV, 200 mA, unfocused)"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Sample Bench Load",
+      "tail": ">200 kg (comprehensive), >1.5 t (heavy load)"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "Single crystal diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "powder diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "depth resolved diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "time resolved diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "XRD-CT"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "Full field/scan+absorption/phase contrast+projection imaging/CT"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "Grain-Resolved Diffraction Contrast Imaging"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Engineering Experiment Shed-Experimental Technology",
+      "tail": "PDF"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Energy Range",
+      "tail": "50–170 keV"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Energy Resolution",
+      "tail": "10^{-3}"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials chemistry experimental shed-spot size at sample",
+      "tail": "~0.7 mm × 0.7 mm"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Light Flux at Sample",
+      "tail": "2×10^{12} phs/s (@100 keV, 200 mA, unfocused)"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Sample Stage Load",
+      "tail": ">200 kg"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "SAXS"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "WAXS"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "SAXS+WAXS"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "Time-resolved SAXS"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "PDF"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "Single crystal diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "powder diffraction"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Materials Chemistry Experiment Shed-Experimental Technology",
+      "tail": "Full field/scan+absorption/phase contrast+projection imaging/CT"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "energy range",
+      "tail": "8–12 keV"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "energy resolution",
+      "tail": "1%"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "Minimum spot",
+      "tail": "100 µm × 100 µm"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "Maximum spot",
+      "tail": "500 µm × 500 µm"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "Luminous flux",
+      "tail": "5E14"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "sample environment",
+      "tail": "High temperature, low temperature, stretching, liquid phase synthesis"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "experimental techniques",
+      "tail": "WAXS, SAXS, USAXS technology or combined measurements."
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "experimental techniques",
+      "tail": "Grazing-incidence wide-angle X-ray scattering (GiWAXS)"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "experimental techniques",
+      "tail": "Grazing incidence small angle X-ray scattering (GiSAXS)"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "experimental techniques",
+      "tail": "Dynamic scattering detection with millisecond time resolution (T-SAXS)"
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "sample environment",
+      "tail": "High temperature: 300–1573 K."
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "sample environment",
+      "tail": "Low temperature: 5–300 K."
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "sample environment",
+      "tail": "Vacuum: 10^{-7} Pa."
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "experimental techniques",
+      "tail": "X-ray diffraction (XRD)"
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "experimental techniques",
+      "tail": "GIWAXS"
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "experimental techniques",
+      "tail": "PDF"
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "experimental techniques",
+      "tail": "XPCS "
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "Coherent X-ray Diffraction Imaging (CDI)"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "X-ray photon correlation spectroscopy (XPCS)"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "Scanning coherence diffraction imaging (Ptychography)"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "Prague CDI (BCDI)"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "SAXS CDI"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "SAXS XPCS"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "experimental techniques",
+      "tail": "WAXS XPCS"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "energy range",
+      "tail": "7–25 keV"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "energy resolution",
+      "tail": "10^{-4}"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "coherent flux",
+      "tail": "Greater than 10^{12} ph/s; adjustable coherence (coherence component 0.5–0.95)"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spot size-Ptychography",
+      "tail": "Spot size 100 nm–5 μm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Resolution-Ptychography",
+      "tail": "Resolution 1–50 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Field of View-Ptychography",
+      "tail": "Field of view 1–100 μm."
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spot size-SAXS CDI",
+      "tail": "Spot size 2–20 μm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Resolution-SAXS CDI",
+      "tail": "Resolution 1–10 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Field of View-SAXS CDI",
+      "tail": "Field of view 1–10 μm."
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spot size-BCDI",
+      "tail": "Spot size 100–500 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Resolution-BCDI",
+      "tail": "Resolution 1–10 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Field of View-BCDI",
+      "tail": "Field of view 50–500 nn."
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spot size-SAXS XPCS",
+      "tail": "Spot size 10–20 μm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spatial scale-SAXS XPCS",
+      "tail": "Spatial scale 1–200 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Timescale - SAXS XPCS",
+      "tail": "Time scale 1000 s–1 μs."
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spot size-WAXS XPCS",
+      "tail": "Spot size 100 nm–2 μm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Spatial scale-WAXS XPCS",
+      "tail": "Spatial scale 0.1–1 nm;"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Timescale-WAXS XPCS",
+      "tail": "Time scale 1000 s–1 μs."
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "High-resolution fluorescence imaging (n-XRF)."
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "Scanning coherence diffraction imaging (Ptychography)."
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "Nano-holographic coherence imaging (Nano-holography)."
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "Nanodiffraction (n-XRD)"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "Near-edge X-ray absorption spectroscopy (XANES)"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "experimental techniques",
+      "tail": "Online scanning electron microscopy (SEM)"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "energy range",
+      "tail": "5–30 keV"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "energy resolution",
+      "tail": "10^{-4}~10^{-5}"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Minimum focus spot - high resolution mode",
+      "tail": "<10 nm"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Minimum focus spot-in-situ mode",
+      "tail": "<50 nm"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Luminous Flux-High Resolution Mode",
+      "tail": "10^{9}~10^{10} phs/s @10 keV"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Luminous flux-in-situ mode",
+      "tail": "10^{10}~10^{11} phs/s @10 keV"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Focused spot working distance-high resolution mode",
+      "tail": "1–2 mm"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Focused spot working distance-in-situ mode",
+      "tail": "40–50 mm"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Sample size",
+      "tail": "Sub-micron to millimeter scale (sub-μm ~ mm)"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Imaging resolution",
+      "tail": "Sample information (structure, elements, valence state, etc.) imaging resolution is approximately nanometer scale"
+    },
+    {
+      "head": "Hard X-ray Imaging Line Station",
+      "relation": "0",
+      "tail": "0"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "experimental techniques",
+      "tail": "Time-resolved X-ray diffraction"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "experimental techniques",
+      "tail": "Time-resolved X-ray phase contrast imaging"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "experimental techniques",
+      "tail": "Time-resolved X-ray scattering"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "experimental techniques",
+      "tail": "Time-resolved X-ray nanoimaging"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "Optical mode - white light mode",
+      "tail": "Spot size 1 mm–14 mm; single pulse intensity >10^{9} phs/pulse; luminous flux >10^{16} phs/s."
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "Optical mode - Micron mode",
+      "tail": "Spot size 5 μm–500 μm; luminous flux >10^{15} phs/s; photon energy 20–70 keV; energy resolution 0.5%–2.8%."
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "Optical Mode-Nano Mode",
+      "tail": "Spot size <50 nm; luminous flux >10^{14} phs/s; photon energy 21.8 keV; energy resolution 1.2%."
+    },
+    {
+      "head": "X-ray microscopy imaging line station",
+      "relation": "Imaging highest spatial resolution",
+      "tail": "20 nm"
+    },
+    {
+      "head": "X-ray microscopy imaging line station",
+      "relation": "energy range",
+      "tail": "5–15 keV"
+    },
+    {
+      "head": "X-ray microscopy imaging line station",
+      "relation": "Photon flux at sample",
+      "tail": "~1E11 phs/s"
+    },
+    {
+      "head": "X-ray microscopy imaging line station",
+      "relation": "Energy resolution (ΔE/E)",
+      "tail": "≈1E-4"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "Powder XRD"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "Single crystal XRD"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "Multi-grain XRD"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "Radial XRD"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "High voltage PDF"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "experimental techniques",
+      "tail": "time resolved diffraction"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "sample environment",
+      "tail": "low temperature"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "sample environment",
+      "tail": "Resistance heating"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "sample environment",
+      "tail": "dynamic loading"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "sample environment",
+      "tail": "Double-sided infrared laser heating"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "sample environment",
+      "tail": "PE type press"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "light source",
+      "tail": "undulator IVU19.9"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "total length",
+      "tail": "4.0 m"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "cycle length",
+      "tail": "19.9 mm"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "FWHM opening angle @Kmax",
+      "tail": "0.26 (H) × 0.11 (V) mrad^2"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "Fundamental light source FWHM size @Kmax",
+      "tail": "21.9 (H) × 9.0 (V) μm^2"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "Fundamental light source FWHM divergence angle @Kmax",
+      "tail": "13.6 (H) × 11.8 (V) μrad^2"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "Photon brightness@30 keV",
+      "tail": "1.7 × 10^{22} phs/s/mm^2/mrad^2/0.1%B.W."
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "Photon flux@30 keV",
+      "tail": "3.8 × 10^{14} phs/s/0.1%B.W. @16 μrad × 16 μrad"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Energy range keV",
+      "tail": "7–26 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Energy Resolution-NRS",
+      "tail": "1 meV @14.4 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Energy Resolution-XRS",
+      "tail": "0.7 eV @9.7 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Energy Resolution-RIXS",
+      "tail": "100 meV @8.9 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Focused spot size is smallest",
+      "tail": "2 µm × 2 µm"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Luminous flux at sample-NRS",
+      "tail": "~1.5×10^{10} phs/s/meV @14.4 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Light flux at sample-XRS",
+      "tail": "~3×10^{13} phs/s @9.7 keV"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Luminous flux at sample-RIXS",
+      "tail": "~5×10^{12} phs/s @8.9 keV"
+    },
+    {
+      "head": "High-resolution nanoelectronic structure line station",
+      "relation": "0",
+      "tail": "0"
+    },
+    {
+      "head": "Optical test line station",
+      "relation": "0",
+      "tail": "0"
+    },
+    {
+      "head": "X-ray absorption spectroscopy line station",
+      "relation": "energy range",
+      "tail": "4.8–45 keV"
+    },
+    {
+      "head": "X-ray absorption spectroscopy line station",
+      "relation": "energy resolution",
+      "tail": "2×10^{-4}(Si(111)); 4×10^{-5}(Si(311))"
+    },
+    {
+      "head": "X-ray absorption spectroscopy line station",
+      "relation": "Spot size",
+      "tail": "~2 mm × 2 mm; ≤0.35 μm × 0.35 μm (focus mode)"
+    },
+    {
+      "head": "X-ray absorption spectroscopy line station",
+      "relation": "Luminous flux",
+      "tail": "2×10^{13} ph/s @10 keV; 5×10^{12} ph/s @10 keV (focus mode)"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "energy range",
+      "tail": "2.1–10 keV"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "energy resolution",
+      "tail": "~2E-4"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "Minimum spot size",
+      "tail": "20 µm × 20 µm"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "Maximum spot size",
+      "tail": "15000 µm × 1500 µm"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "Luminous flux",
+      "tail": "1E10 ~ 1E12 phs/s"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "sample environment",
+      "tail": "high temperature/low temperature"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray absorption fine structure (XAFS)"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "experimental techniques",
+      "tail": "Near-edge X-ray absorption spectroscopy (XANES)"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "experimental techniques",
+      "tail": "X-ray fluorescence spectrometry (XRF)"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Storage ring energy",
+      "tail": "6GeV"
+    },
+    {
+      "head": "HEPS",
+      "relation": "brightness",
+      "tail": "1 × 10^22 phs/s/mm2/mrad2/0.1%BW"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Biomacromolecule microcrystalline diffraction line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Low dimensional structure probe line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Engineering Materials Line Station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Pink light small angle scattering ray station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Hard X-ray coherent scattering station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Hard X-ray Nanoprobe Line Station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Hard X-ray Imaging Line Station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Structural Dynamics Line Station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "X-ray microscopy imaging line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "High voltage line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "High resolution spectroscopy line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "High-resolution nanoelectronic structure line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Optical test line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "Universal Environmental Spectroscopy Line Station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "construction",
+      "tail": "X-ray absorption spectroscopy line station"
+    },
+    {
+      "head": "Phase I",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "Phase I",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "Universal Environmental Spectroscopy Line Station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "X-ray microscopy imaging line station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "Pink light small angle scattering ray station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "Biomacromolecule microcrystalline diffraction line station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "Low dimensional structure probe line station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "High voltage line station",
+      "relation": "Line station status",
+      "tail": "Open in the first round"
+    },
+    {
+      "head": "Engineering Materials Line Station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "Hard X-ray coherent scattering station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "Hard X-ray Nanoprobe Line Station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "Structural Dynamics Line Station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "High resolution spectroscopy line station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "High-resolution nanoelectronic structure line station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "Optical test line station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "X-ray absorption spectroscopy line station",
+      "relation": "Line station status",
+      "tail": "Not open yet"
+    },
+    {
+      "head": "HEPS",
+      "relation": "Application for trial subject",
+      "tail": "#HEPS Pilot Proposal Application Instructions\n1. HEPS user service system website address: https://user.heps.ihep.ac.cn/.\nIf you have any comments or suggestions for improving the Pilot Proposal application, please send feedback to the HEPS User Office email (heps-user@ihep.ac.cn).\n\n2. System registration:\n(1) Users who already have an account on the Chinese Academy of Sciences' Major Science and Technology Infrastructure Shared Service Platform (hereinafter referred to as the Academy Platform) (https://lssf.cas.cn/) can directly log in to the HEPS user service system. The login account is the email address registered when registering the Academy Platform (please note that it is not the login account of the Academy Platform), and the password is the platform password of the same Academy.\n(2) For users who do not have a hospital platform account, please click \"Create a new account?\" on the home page of the HEPS user service system to register. After registration, re-visit the HEPS user service system to log in. Login account: the email address registered during registration. Password: the password set during registration.\n\n3. Topic application:\n(1) Applicants must be employed and can submit a project application only after contacting the pilot proposal contact person at the corresponding line station.\n(2) After entering the HEPS user service system, click \"Pilot Proposal\" on the left side of the page to start filling in the application.\n(3) There are 7 steps in the project application. Please fill in and submit according to the requirements. Application steps: The application form is divided into 7 steps (project type, user commitment, basic information, project members, project details, sample safety, auxiliary materials), which can be switched through the digital steps above or the \"Previous\" and \"Next\" interface.\nOperating functions:\nThe final PDF document can be viewed through the \"Preview\" button;\nIf you haven't completed it, you can temporarily save it through the \"Save\" button, and you can find it in \"My Topics\" later;\nAfter filling in, click \"Submit\". It cannot be modified after submission.\nTrial topic description:\nThe pilot project (PILOT proposal) is the type of project that is open for experimentation during line station commissioning. 6 line stations are open in the first round (a total of 14 line stations in the first phase of HEPS);\nThe first round of applications is due until December 31, 2025. Late applications must be submitted after the validity period of the line station opens.\nApplication requirements:\nApplicants need to communicate with line station personnel, select the corresponding line station personnel in the \"Project Details\" link and explain the communication situation;\nTopic applications must first be reviewed online.\nFirst round of open line stations:\nBM44 Universal Environmental Spectroscopy Line Station\nID30 X-ray Imaging Line Station\nID08 Powder Small Angle Scattered Ray Station\nID02 biological macromolecule diffraction line station\nID05 low-dimensional structure probe line station\nID31 high voltage line station\n\n(4) After the project review and approval is completed, the HEPS user service system will send an email to notify you of the review results.\n\n4. Machine schedule:\nFor approved trial proposals (Pilot Proposal), line station staff will arrange the time according to the specific conditions of the line station, please wait patiently for notification.\n\n5. Application for visit:\n(1) After the flight schedule is confirmed, the HEPS user service system will send an email notification to remind you to fill in the visit application.\n(2) When selecting the corresponding experimental machine in the \"Visit Application\" module of the HEPS user service system, fill in and submit the visit information of all personnel who plan to conduct experiments on site. Requirements for visitors to fill in:\n- Have a registered account on the hospital platform and fill in the ID number;\n- Passed the \"HEPS User Security Training Examination\" in the HEPS User Service System.\n(3) After the visit is approved, all visitors will receive an email from the system regarding the experimental account, password, BeamtimeID, etc.\n(4) It is recommended to fill in the visit application at least 3 days in advance to facilitate: 1. Arranging dose cards and access cards; 2. All visitors will receive notifications about the experimental account, password and BeamtimeID, and have permission to download experimental data after the experiment is completed.\n\n6. User accommodation:\nIf users have accommodation needs, please contact the front desk of HEPS Guest House in advance (tel: 01069680831, 18001162658).\n\n7. User on-site experiments:\n1. Dosage Card and Access Card:\nAfter users arrive at HEPS, they contact line station personnel to receive dosage cards, access cards and register.\n2. Conduct experiments:\nUsers conduct experiments based on the experimental account, password and BeamtimeID in the visit notification email.\n\n8. After the experiment:\n1. Users fill in the experiment registration form (form provided on site) and provide feedback or suggestions on the online site trial;\n2. The user returns the dose card and access card before leaving HEPS (if any is lost or damaged, compensation must be paid);\n3. You can click the \"Data Service\" menu bar in the HEPS user service system to jump to the HEPS user data service system or directly access the HEPS user data service system through the following URL (https://data.heps.ihep.ac.cn/) to download experimental data (download account: the experimental account and password in the visit notification email or the registered email address and password of the experimenter on the hospital platform).\n\n9. Contact information:\n1. User Office: Yu Meijuan, 15311488165, yumj@ihep.ac.cn\n2. Experimental data management: Guo Yilei, ylguo@ihep.ac.cn, 18614046290; Hu Peng, hup@ihep.ac.cn, 15600290501\n3. HEPS Guest House Front Desk: 010-69680831, 18001162658"
+    }
+  ]
+}
