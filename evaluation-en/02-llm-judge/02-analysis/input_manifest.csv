@@ -1,0 +1,10 @@
+﻿scoring_repeat,generation_repeat,workbook,sheet,n_questions,scoring_model
+1,1,benchmark_llm_scores_1.xlsx,Sheet1,24,gpt-5.6-terra
+1,2,benchmark_llm_scores_1.xlsx,Sheet2,24,gpt-5.6-terra
+1,3,benchmark_llm_scores_1.xlsx,Sheet3,24,gpt-5.6-terra
+2,1,benchmark_llm_scores_2.xlsx,Sheet1,24,gpt-5.6-terra
+2,2,benchmark_llm_scores_2.xlsx,Sheet2,24,gpt-5.6-terra
+2,3,benchmark_llm_scores_2.xlsx,Sheet3,24,gpt-5.6-terra
+3,1,benchmark_llm_scores_3.xlsx,Sheet1,24,gpt-5.6-terra
+3,2,benchmark_llm_scores_3.xlsx,Sheet2,24,gpt-5.6-terra
+3,3,benchmark_llm_scores_3.xlsx,Sheet3,24,gpt-5.6-terra

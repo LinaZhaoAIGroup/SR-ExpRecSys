@@ -1,0 +1,13 @@
+GPT score analysis
+==================
+
+Design: 24 paired questions; RAG and No RAG; three response-generation repeats crossed with three GPT-scoring repeats (nine scores per question, system, and dimension).
+
+Descriptive display: SI bars show mean +/- sample SD across all nine raw scores, with every raw value overlaid. Main-figure points and 95% CIs are calculated across 24 question-level means.
+
+Inference: two-sided Wilcoxon signed-rank tests use the 24 paired question-level means. The three p values are corrected by the Holm method. The confidence interval for the mean paired difference is a t interval across questions.
+
+Results:
+- Correctness: RAG 7.26 [95% CI 6.50, 8.03]; No RAG 3.87 [95% CI 3.23, 4.51]; difference +3.39 [95% CI +2.38, +4.41]; Wilcoxon p=5.95e-05, Holm-adjusted p=0.0001785, rank-biserial=+0.957.
+- Usefulness: RAG 7.28 [95% CI 6.61, 7.94]; No RAG 4.88 [95% CI 4.25, 5.51]; difference +2.40 [95% CI +1.45, +3.35]; Wilcoxon p=9.084e-05, Holm-adjusted p=0.0001817, rank-biserial=+0.843.
+- Safety: RAG 7.44 [95% CI 7.00, 7.89]; No RAG 5.97 [95% CI 5.57, 6.37]; difference +1.48 [95% CI +0.95, +2.00]; Wilcoxon p=0.0001119, Holm-adjusted p=0.0001817, rank-biserial=+0.920.
