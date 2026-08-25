@@ -1,7 +1,5 @@
 # Evaluation and Data Audit
 
-**Language:** English | [中文说明](README_CN.md)  
-**Project README:** [English](../README.md) | [中文](../README_CN.md)
 
 ## Purpose
 
@@ -206,6 +204,4 @@ The requirements file records package names used by the current scripts but is n
 - Human ratings are anonymized, but workbook metadata and cell contents still require author review before publication.
 - The system is a preliminary planning aid and does not replace official procedures, safety review, instrument training, or beamline-staff consultation.
 
-## Citation and availability
 
-Add the final GitHub URL, archival DOI, article DOI, license, and contact information before publication. The repository root contains the project README and release-status checklist.
