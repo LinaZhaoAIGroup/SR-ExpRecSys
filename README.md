@@ -7,6 +7,7 @@ Code and data for the study:
 Repository: https://github.com/LinaZhaoAIGroup/SR-ExpRecSys
 
 ## Overview
+The question-answering and evaluation in this study were conducted in Chinese; for readers’ convenience, we provide both the original Chinese version and the corresponding English translation.
 
 This project develops a retrieval-augmented generation (RAG) system for preliminary synchrotron radiation experiment planning. The system uses knowledge-base retrieval, vector similarity, knowledge-graph information, and a large language model to provide experiment-related suggestions.
 
