@@ -57,8 +57,3 @@ scripts/data_preparation/kg-tripe.py
 
 Never commit API keys, passwords, `.env` files, local databases, or private evaluation records.
 
-## License and citation
-
-A license and the final citation will be added after approval by the authors and institution.
-
-Please cite the associated article and this repository when using the code or data.
